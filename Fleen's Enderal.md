@@ -1,8 +1,13 @@
 ## Mod Showcase: Fleen's Enderal
 
+List of mods used in my Enderal streams
+[Twitch](https://www.twitch.tv/fleenfleen)
+[YouTube](https://www.youtube.com/@FleenStreams)
+
 ## Enderal Special Edition Mods
 
 <hr />
+*THIS LIST IS FOR REFERENCE ONLY! DO NOT DOWNLOAD ALL OF THESE AND EXPECT IT TO WORK*
 <hr />
 
 ### Complete Vanilla Eye Overhaul (CVEO) by LDD - (CVEO) by LDD 3.0.1
@@ -5178,7 +5183,9 @@ Installed 22/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By Reize for Skyrim Special Edition (Default)
 
-Have you ever had that moment where you had the perfect assassination lined up, only for the target to sidestep while he wasn&#39;t looking at you? This mod makes it so enemies do not have superpower sensing/dodging. No BS Guaranteed&#33;<br /><br />
+Have you ever had that moment where you had the perfect assassination lined up, only for the target to sidestep while he wasn&#39;t looking at you? This mod makes it so enemies do not have superpower sensing/dodging. No BS Guaranteed&#33;
+<br />
+<br />
 
 
 
