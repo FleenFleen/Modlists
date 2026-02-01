@@ -1,6 +1,6 @@
 ## Mod Showcase: Fallout NV Modlist
 
-List of mods used in my Enderal streams
+List of mods used in my Fallout New Vegas streams
 [Twitch](https://www.twitch.tv/fleenfleen)
 [YouTube](https://www.youtube.com/@FleenStreams)
 
@@ -1878,7 +1878,8 @@ Installed 20/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/6
 
 > By FalloutMG for Fallout:	New Vegas (Default)
 
-Retexture Bowie knife from DLC Lonesome Road <br />+ compatibility WMX
+Retexture Bowie knife from DLC Lonesome Road 
+<br />+ compatibility WMX
 
 
 
@@ -2193,7 +2194,8 @@ Installed 20/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/6
 
 > By FalloutMG for Fallout:	New Vegas (Default)
 
-Cleaver Retexture<br />+ compatibility WMX
+Cleaver Retexture
+<br />+ compatibility WMX
 
 
 
@@ -2508,7 +2510,8 @@ Installed 20/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/6
 
 > By FalloutMG for Fallout:	New Vegas (Default)
 
-Combat knife Retexture<br /> + compatibility WMX
+Combat knife Retexture
+<br /> + compatibility WMX
 
 
 
@@ -4277,7 +4280,8 @@ Installed 20/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/6
 
 > By FalloutMG for Fallout:	New Vegas (Default)
 
-Hatchet retexture<br />+ compatibility WMX
+Hatchet retexture
+<br />+ compatibility WMX
 
 
 
@@ -5654,7 +5658,8 @@ Installed 19/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/3
 
 > By LORD DARIUS and Jtrainz for Fallout:	New Vegas (Default)
 
-Modders Resource:<br />Adds the iron sight node to some fallout 3 weapons and I have fine tuned it so you are actually looking down the sights
+Modders Resource:
+<br />Adds the iron sight node to some fallout 3 weapons and I have fine tuned it so you are actually looking down the sights
 
 
 
@@ -6538,7 +6543,9 @@ Installed 31/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/4
 
 > By Nivea for Fallout:	New Vegas (Default)
 
-I was always put off by the fact that 90% of the population seemed to wear the exact same armor/clothing this mod aims to try and lessen this issue by adding more clothing/armor variety.<br /><br />Robert body and Breeze body and Type 3 supported.
+I was always put off by the fact that 90% of the population seemed to wear the exact same armor/clothing this mod aims to try and lessen this issue by adding more clothing/armor variety.
+<br />
+<br />Robert body and Breeze body and Type 3 supported.
 
 
 
@@ -6553,7 +6560,9 @@ Installed 19/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/4
 
 > By Nivea for Fallout:	New Vegas (Default)
 
-I was always put off by the fact that 90% of the population seemed to wear the exact same armor/clothing this mod aims to try and lessen this issue by adding more clothing/armor variety.<br /><br />Robert body and Breeze body and Type 3 supported.
+I was always put off by the fact that 90% of the population seemed to wear the exact same armor/clothing this mod aims to try and lessen this issue by adding more clothing/armor variety.
+<br />
+<br />Robert body and Breeze body and Type 3 supported.
 
 
 
@@ -7799,7 +7808,8 @@ Installed 19/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/3
 
 > By LORD DARIUS and Jtrainz for Fallout:	New Vegas (Default)
 
-Modders Resource:<br />Adds the iron sight node to some fallout 3 weapons and I have fine tuned it so you are actually looking down the sights
+Modders Resource:
+<br />Adds the iron sight node to some fallout 3 weapons and I have fine tuned it so you are actually looking down the sights
 
 
 
@@ -9838,7 +9848,9 @@ Installed 19/10/2023 from [Nexus Mods](https://www.nexusmods.com/newvegas/mods/4
 
 > By Gopher for Fallout:	New Vegas (Default)
 
-HUD when you need it. HIDE when you don&#39;t.<br /><br />Get the best of both worlds. The usefulness of having a HUD with the immersion of having none.
+HUD when you need it. HIDE when you don&#39;t.
+<br />
+<br />Get the best of both worlds. The usefulness of having a HUD with the immersion of having none.
 
 
 
@@ -9974,6 +9986,7 @@ Installed 20/10/2023 from [Nexus Mods](https://www.nexusmods.com/fallout3/mods/1
 > By RogueTrooperPL for Fallout 3 (Default)
 
 New look for .32 revolver (pistol). He\'s darker, more metallic. His grip is brown with copper S&W logo.
+
 Also there is serial number on the barrel. 
 
 
