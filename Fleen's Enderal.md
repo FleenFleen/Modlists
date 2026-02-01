@@ -6184,15 +6184,15 @@ Black SK maps for SC Horses to prevent them from glowing during certain times of
 
 <hr />
 
-### SCAR - Skyrim Combos AI Revolution v1.06b
+### SCAR-v2.01 
 
-Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/72014/) (Creatures) 
+Installed 17/01/2026 from [Github](https://github.com/max-su-2019/SCAR/releases) (Creatures) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1704/images/72014/72014-1658635371-1919698961.png" alt="mod-image" height="350" />
 
 > By Maxsu and Monitor144hz for Skyrim Special Edition (Default)
 
-SKSE plugin that brings up the modern ACT game‘s combos attack AI into Skyrim.
+SKSE plugin that brings up the modern ACT game‘s combos attack AI into Skyrim. v2 from Github
 
 
 
@@ -6884,21 +6884,6 @@ Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspeciale
 > By MaladyTheEndurant and Ashok0 for Enderal Special Edition (Default)
 
 Many animated/interactive/static mushrooms across Enderal are high poly now.  This is an approved Enderal SE conversion by MaladyTheEndurant.  All credit goes to her!
-
-
-
-
-<hr />
-
-### Story Mode 1.01
-
-Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/123/) (Gameplay) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/123/123-1620736731-31973126.jpeg" alt="mod-image" height="350" />
-
-> By Ixion XVII for Enderal Special Edition (Default)
-
-Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty. (eng/ger/rus)
 
 
 
@@ -7820,3 +7805,167 @@ A mesh replacer that (finally) fixes the flags in Solitude. It SMIM's the rope a
 
 <hr />
 
+### Falmer Sounds -The Betrayed Remaster- 3.0
+
+Installed 31/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/46989/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/46989/46989-1615700007-2758903.jpeg" alt="mod-image" height="350" />
+
+> By Satafinix for Skyrim Special Edition (Default)
+
+A Remaster Of it s Predecessor Falmer Sounds - the Betrayal Legacy Edition- Reworked from scratch<br />full replacement for Vanilla Falmers sounds to more fearsome Sounds FX!
+
+
+
+
+<hr />
+
+### Luminous Atronachs - ESPLite 2.0ESPLite
+
+Installed 31/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/27732/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/27732/27732-1609952060-93525014.png" alt="mod-image" height="350" />
+
+> By Raxyx7 for Skyrim Special Edition (Default)
+
+Atronachs emit light. Different colors according to elemental type. ESPLite version also available.
+
+
+
+
+<hr />
+
+### Bedroll Alternative - Use Those Blankets patch 1.0.2
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/132480/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/132480/132480-1730051979-1591160162.gif" alt="mod-image" height="350" />
+
+> By sothasimp for Skyrim Special Edition (Default)
+
+A bedroll replacer since people keep requesting it, I prefer vanilla but it's always nice to have options :) Mid-poly with 2k textures, optional BOS color variance and Use Those Blankets patch
+
+
+
+
+<hr />
+
+### No more Skyrim-looking Creatures (now including lost ones) - Kolapon&#39;s Various Creatures Replacers 1.5v
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/64/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/64/64-1618135197-747148379.png" alt="mod-image" height="350" />
+
+> By MelinoeMods for Enderal Special Edition (Default)
+
+Changes the appearance of some of the creatures so they are unique to Enderal.
+
+
+
+
+<hr />
+
+### New Creature Animation - Falmer - Falmer Animation 2.0 OAR - SCAR2.0 2.0
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/83572/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/83572/83572-1674791587-393689946.jpeg" alt="mod-image" height="350" />
+
+> By TongDing for Skyrim Special Edition (Default)
+
+This mod adds new animations to make Falmer revealing their insidious nature when you encounter them.
+
+
+
+
+<hr />
+
+### Enderal - Arp 2.12
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/36/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/36/36-1618985568-1356070936.png" alt="mod-image" height="350" />
+
+> By DevourVR for Enderal Special Edition (Default)
+
+Completely redesigned 4K Arp for Enderal SE / VR. There should never be Skyrim Creatures in this old yet new land.<br /> "Overhaul of the slimy, grudge like.. humanoid creatures within Whisperwood / Fogville."
+
+
+
+
+<hr />
+
+### Desaturated Hair (Enderal Arp) 1.0
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/36/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/36/36-1618985568-1356070936.png" alt="mod-image" height="350" />
+
+> By DevourVR for Enderal Special Edition (Default)
+
+Completely redesigned 4K Arp for Enderal SE / VR. There should never be Skyrim Creatures in this old yet new land.<br /> "Overhaul of the slimy, grudge like.. humanoid creatures within Whisperwood / Fogville."
+
+
+
+
+<hr />
+
+### Creepy pus bugs and cute glacier hounds - Creatures replacer 1
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderal/mods/211/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/2736/images/211/211-1616296056-1198296038.jpeg" alt="mod-image" height="350" />
+
+> By UBERTWINK for Enderal (Default)
+
+Changes two creatures to better fit their name and help distance Enderal's aesthetics from Skyrim.
+
+
+
+
+<hr />
+
+### Edge UI 0.61 Unofficial Bugfix collection 1.2.1
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/157605/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/157605/157605-1765818333-1310957743.png" alt="mod-image" height="350" />
+
+> By 3THANY for Skyrim Special Edition (Default)
+
+This collection is made for easy downloading. All future bug fixes and revamp of Edge UI will be released on this page.
+
+
+
+
+<hr />
+
+### CS Light 1.9.1
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/138443/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/138443/138443-1748185364-1877523115.png" alt="mod-image" height="350" />
+
+> By dbottle SkrubbySkrubInAShrub Sebasa81 for Skyrim Special Edition (Default)
+
+CS Light config hub for Light placer, adds lights to many light emitting objects in Skyrim
+
+
+
+
+<hr />
+
+### First person magic hand light fix 1.0.0
+
+Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/142757/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/142757/142757-1740407659-1822637605.png" alt="mod-image" height="350" />
+
+> By Sebasa for Skyrim Special Edition (Default)
+
+Fixes the first person hand light for magic effects
+
+
+
+
+<hr />
