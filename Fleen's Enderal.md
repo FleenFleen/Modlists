@@ -4830,21 +4830,6 @@ Replacer for lute
 
 <hr />
 
-### MCM Helper SE (1.5) 1.5.0
-
-Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimse/mods/53000) (Utilities) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png" alt="mod-image" height="350" />
-
-> By Parapets for Skyrim Special Edition (Default)
-
-Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.
-
-
-
-
-<hr />
-
 ### Community Shader Dynamic Cubemap - Complete Addon - Magink Patch 1
 
 Installed 18/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168378/) (Miscellaneous) 
