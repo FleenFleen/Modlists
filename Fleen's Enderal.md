@@ -6094,21 +6094,6 @@ This framework enables realistic arrow and bolt ricochets, with fracture and imp
 
 <hr />
 
-### Rim Lighting Removed 1.1.0
-
-Installed 19/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/164488/) (Dungeons) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/164488/164488-1763200650-2112357145.jpg" alt="mod-image" height="350" />
-
-> By SkyHorizon for Skyrim Special Edition (Default)
-
-SKSE plugin that removes rim lighting from all objects.
-
-
-
-
-<hr />
-
 ### Riverville Catacombs 1.02
 
 Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/80/) (Dungeons) 
@@ -8084,6 +8069,246 @@ Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Parapets for Skyrim Special Edition (Default)
 
 Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.
+
+
+
+
+<hr />
+
+### Fix for Dog Barking Silently 1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/508/) (Gameplay) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/508/508-1671365948-1072077482.jpeg" alt="mod-image" height="350" />
+
+> By nnrkd for Enderal Special Edition (Default)
+
+In case you missed this sound
+
+
+
+
+<hr />
+
+### Enderal Dance Mod for SE - DanceDance v1.1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/545/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/545/545-1679681596-507173009.png" alt="mod-image" height="350" />
+
+> By dailyplanet for Enderal Special Edition (Default)
+
+Dance like there's no tomorrow!
+
+
+
+
+<hr />
+
+### Crystal Golems - Mihail Monsters and Animals (SE-AE version) (&#39;&#39;dark souls&#39;&#39;) - crystal golem (se-ae) 2.1 2.1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/24591/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/24591/24591-1665629615-603375534.png" alt="mod-image" height="350" />
+
+> By Mihail for Skyrim Special Edition (Default)
+
+Crystal Golems are large masses of faceless and vaguely humanoid crystal, animated by unknown means, that patrol Blackreach. Despite Azura's Moonshadow and Meridia's Colored Rooms being almost inaccessible to mortals, it's certain that some roam that realms since they're often summoned on Nirn by azura's and meridia's worshipers.
+
+
+
+
+<hr />
+
+### Ouro&#39;s collection of small overhauls - Crystal Golems - Enderal Crystal Elemental Replace 1.1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/790/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/790/790-1752651714-92579374.jpg" alt="mod-image" height="350" />
+
+> By Ouruboros for Enderal Special Edition (Default)
+
+A collection of patches I made to replace some monster with new and less skyrim looking models.
+
+
+
+
+<hr />
+
+### Ouro&#39;s collection of small overhauls - Dwarven Defenders - Starling Guardians Replacer 1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/790/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/790/790-1752651714-92579374.jpg" alt="mod-image" height="350" />
+
+> By Ouruboros for Enderal Special Edition (Default)
+
+A collection of patches I made to replace some monster with new and less skyrim looking models.
+
+
+
+
+<hr />
+
+### Ouro&#39;s collection of small overhauls - Dwarven Colosus - Starling Centurions Replacer 1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/790/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/790/790-1752651714-92579374.jpg" alt="mod-image" height="350" />
+
+> By Ouruboros for Enderal Special Edition (Default)
+
+A collection of patches I made to replace some monster with new and less skyrim looking models.
+
+
+
+
+<hr />
+
+### dwarven colossus (SE-AE) v 1.3 1.3
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/27354/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/27354/27354-1675212038-770150857.png" alt="mod-image" height="350" />
+
+> By Mihail for Skyrim Special Edition (Default)
+
+Dwarven Colossus are one of the magnum opus amongst the Dwemer Animunculi. Massive, and with incredible endurance and fire power, these machines possess specialized weapons on their arms, a large dual-blade gauntlet on the right and a hammer piston that creates fire pulses on the left. They are also able to breath extremely destructive fire.
+
+
+
+
+<hr />
+
+### dwarven defenders (se-ae) 1.2 1.2
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/36836/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/36836/36836-1718273108-443181576.jpeg" alt="mod-image" height="350" />
+
+> By Mihail for Skyrim Special Edition (Default)
+
+Created to be the pawns on the front line of the Dwemer army, Dwarven Defenders are articulated automatons designed to emulate the combat skills of their creators in wars and conflicts. Wielding light dwarven shields, and sledgehammers, and firing blasts of electricity through their central chest core, these machine armies are a force to be feared.
+
+
+
+
+<hr />
+
+### Gambling Games Alt Camera Bugfix 1.00
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/746/) (Gameplay) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/746/746-1722326775-1090171349.png" alt="mod-image" height="350" />
+
+> By LevinLozenges for Enderal Special Edition (Default)
+
+Fixes the first person view when entering a gambling mini-game in Enderal when using Improved Camera/No Furniture Camera/Alternate Conversation Camera, etc.
+
+
+
+
+<hr />
+
+### EPPI Foamville Extinguished 1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/885/) (Locations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/885/885-1744767101-1822160927.png" alt="mod-image" height="350" />
+
+> By DaddySmurf for Enderal Special Edition (Default)
+
+Extinguishes the live flames in the excellent EPPI Foamville mod for lore consistency
+
+
+
+
+<hr />
+
+### TMD Jars of Skyrim for ENB 1.01
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimse/mods/84235) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/84235/84235-1675551017-2121250773.png" alt="mod-image" height="350" />
+
+> By TheMilkDrinker for Skyrim Special Edition (Default)
+
+New glass jar model for the most immersive Skyrim experience. Set up for ENB Complex Material and refraction fixes.
+
+
+
+
+<hr />
+
+### Awesome Artichokes - Ingredient Replacer 1.0.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/925/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/925/925-1752264479-1197432721.png" alt="mod-image" height="350" />
+
+> By Wildscribe for Enderal Special Edition (Default)
+
+Replaces the old artichoke model (briar hearts) with new artichoke meshes and textures. Covers the ingredient, with optional files for TMD jars.
+
+
+
+
+<hr />
+
+### Awesome Artichokes - TMD Jars (ENB) 1.0.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/925/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/925/925-1752264479-1197432721.png" alt="mod-image" height="350" />
+
+> By Wildscribe for Enderal Special Edition (Default)
+
+Replaces the old artichoke model (briar hearts) with new artichoke meshes and textures. Covers the ingredient, with optional files for TMD jars.
+
+
+
+
+<hr />
+
+### DungeonsNDice - Tavern Dice Table Overhaul 1.00
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/747/) (Environment) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/747/747-1722477959-435081283.png" alt="mod-image" height="350" />
+
+> By LevinLozenges for Enderal Special Edition (Default)
+
+Overhauls the Morala's Dice game table by adding thematic clutter matching the isles and dungeons of Kilé.
+
+
+
+
+<hr />
+
+### Silver Cloud Sign Fix 1.0.1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/810/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/810/810-1731851201-1193145984.png" alt="mod-image" height="350" />
+
+> By deskydesky for Enderal Special Edition (Default)
+
+Fixes a sign texture.
+
+
+
+
+<hr />
+
+### More Immersive Loading Screens Text 1.0.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/957/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/957/957-1755390990-931781790.png" alt="mod-image" height="350" />
+
+> By TieflingGrimoire for Enderal Special Edition (Default)
+
+Edits to make the text tips on the loading screens more immersive, removing references to the "game" and the "story."
 
 
 
