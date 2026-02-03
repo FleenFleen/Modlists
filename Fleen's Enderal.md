@@ -2517,6 +2517,21 @@ TrueHUD patch for Edge UI - at least until an official one releases. Comes with 
 
 <hr />
 
+### Edge UI TrueHUD - Skin and Asset Updates 1.4
+
+Installed 01/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/131921/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/131921/131921-1731622535-1778610965.png" alt="mod-image" height="350" />
+
+> By EugeneUI and Nuascura for Skyrim Special Edition (Default)
+
+TrueHUD patch for Edge UI - at least until an official one releases. Comes with adjusted assets for TrueHUD and presets for Oxygen Meter 2 and Casting Bar.
+
+
+
+
+<hr />
+
 ### ElSopa - Northern Roads Resculpted 2k 1.1
 
 Installed 20/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/83792/) (Miscellaneous) 
@@ -7880,36 +7895,6 @@ This mod adds new animations to make Falmer revealing their insidious nature whe
 
 <hr />
 
-### Enderal - Arp 2.12
-
-Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/36/) (Creatures) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/36/36-1618985568-1356070936.png" alt="mod-image" height="350" />
-
-> By DevourVR for Enderal Special Edition (Default)
-
-Completely redesigned 4K Arp for Enderal SE / VR. There should never be Skyrim Creatures in this old yet new land.<br /> "Overhaul of the slimy, grudge like.. humanoid creatures within Whisperwood / Fogville."
-
-
-
-
-<hr />
-
-### Desaturated Hair (Enderal Arp) 1.0
-
-Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/36/) (Creatures) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/36/36-1618985568-1356070936.png" alt="mod-image" height="350" />
-
-> By DevourVR for Enderal Special Edition (Default)
-
-Completely redesigned 4K Arp for Enderal SE / VR. There should never be Skyrim Creatures in this old yet new land.<br /> "Overhaul of the slimy, grudge like.. humanoid creatures within Whisperwood / Fogville."
-
-
-
-
-<hr />
-
 ### Creepy pus bugs and cute glacier hounds - Creatures replacer 1
 
 Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderal/mods/211/) (Unknown) 
@@ -7964,6 +7949,156 @@ Installed 30/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Sebasa for Skyrim Special Edition (Default)
 
 Fixes the first person hand light for magic effects
+
+
+
+
+<hr />
+
+### Quest Alert for Map Markers 1.02
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/308/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/308/308-1637780061-509818797.png" alt="mod-image" height="350" />
+
+> By HajyMurat for Enderal Special Edition (Default)
+
+Adds * symbol to map markers of quest locations
+
+
+
+
+<hr />
+
+### World Immersion Tweaks 1.1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/136125/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/136125/136125-1733904351-1179627699.png" alt="mod-image" height="350" />
+
+> By Kronixz for Skyrim Special Edition (Default)
+
+Stand on the bodies of your enemies! Admire what a dragon looks like after an entire town guard's supply of arrows! Includes customization of projectile settings via Game Settings Override.
+
+
+
+
+<hr />
+
+### Realistic Death Physics - No Animations Only ESL 1.2
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/53694/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/53694/53694-1628721426-22169270.jpeg" alt="mod-image" height="350" />
+
+> By mm137 and MaskedRPGFan for Skyrim Special Edition (Default)
+
+Removes the death animations from animals and NPCs, making them ragdoll immediately. Also tweaks physics and collision. ESL Flagged.
+
+
+
+
+<hr />
+
+### No Silly Physics Damage (esl) 2
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/36132/) (Gameplay) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/36132/36132-1589778682-796787749.png" alt="mod-image" height="350" />
+
+> By Corsafire for Skyrim Special Edition (Default)
+
+You will no longer lose HP when walking on dynamic objects such as bones or when walking towards a cart.
+
+
+
+
+<hr />
+
+### Dynamic Collision Adjustment 1.1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/76783/) (Gameplay) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/76783/76783-1665271173-1102901974.png" alt="mod-image" height="350" />
+
+> By Ersh for Skyrim Special Edition (Default)
+
+Adjusts the character controller collision while sneaking and swimming so you can fit under objects. Fixes some races not being affected by Actor Scale.
+
+
+
+
+<hr />
+
+### High Quality FaceTints - High Quality FaceTints - With Make Up - With Face Discolouration - With Dirt 1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/418/) (Characters) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/418/418-1657487532-702464713.png" alt="mod-image" height="350" />
+
+> By dovaya for Enderal Special Edition (Default)
+
+Replaces all NPC FaceTints with new, high-quality ones, complete with compression and mipmaps. Optionally with or without make-up, face discolouration and dirt.
+
+
+
+
+<hr />
+
+### Stolen Memories 1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/527/) (Gameplay) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/527/527-1673919096-237024696.png" alt="mod-image" height="350" />
+
+> By bushtail for Enderal Special Edition (Default)
+
+Memory point books added to book loot table.
+
+
+
+
+<hr />
+
+### Craftable Lockpicks (Three per ingot) 1.0.1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/555/) (Items) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/555/555-1681549567-1720112534.png" alt="mod-image" height="350" />
+
+> By Bigs for Enderal Special Edition (Default)
+
+Adds a lockpick blueprint that can be found in the False Dog Tavern which allows the player to craft lockpicks at forges using iron ingots.
+
+
+
+
+<hr />
+
+### Goblins 1
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/238/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/238/238-1629567718-1914631079.jpeg" alt="mod-image" height="350" />
+
+> By UBERTWINK for Enderal Special Edition (Default)
+
+Goblins
+
+
+
+
+<hr />
+
+### MCM Helper SE (1.5.97 BACKPORT) 1.4.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/53000/) (Utilities) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png" alt="mod-image" height="350" />
+
+> By Parapets for Skyrim Special Edition (Default)
+
+Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.
 
 
 
