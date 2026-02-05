@@ -8270,21 +8270,6 @@ Replaces the old artichoke model (briar hearts) with new artichoke meshes and te
 
 <hr />
 
-### DungeonsNDice - Tavern Dice Table Overhaul 1.00
-
-Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/747/) (Environment) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/747/747-1722477959-435081283.png" alt="mod-image" height="350" />
-
-> By LevinLozenges for Enderal Special Edition (Default)
-
-Overhauls the Morala's Dice game table by adding thematic clutter matching the isles and dungeons of Kilé.
-
-
-
-
-<hr />
-
 ### Silver Cloud Sign Fix 1.0.1
 
 Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/810/) (Visuals and Graphics) 
@@ -8309,6 +8294,246 @@ Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspeciale
 > By TieflingGrimoire for Enderal Special Edition (Default)
 
 Edits to make the text tips on the loading screens more immersive, removing references to the "game" and the "story."
+
+
+
+
+<hr />
+
+### SSE Version Hawk Texture and Death Body Replacer 1.04162023 1.04162023
+
+Installed 05/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/77204/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/77204/113234-1665931422-414993266.jpeg" alt="mod-image" height="350" />
+
+> By Adventurer1111 for Skyrim Special Edition (Default)
+
+This is a replacer for flying hawk texture only. This mod also replaces the hawk body that falls to the ground.<br /><br />No ESP/ESL needed for this mod just place files in data folder.
+
+
+
+
+<hr />
+
+### SMIM Gambling Table Fix 1.0.0
+
+Installed 05/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/1015/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/1015/1015-1770258374-81743170.png" alt="mod-image" height="350" />
+
+> By Brumbek FleenFleen-Kiwimelodic for Enderal Special Edition (Default)
+
+Quick edit to commontablesquare01.nif from SMIM to prevent cards clipping into the table
+
+
+
+
+<hr />
+
+### Valhalla Better Execution preset 1.0
+
+Installed 05/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/134960/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/134960/134960-1732681297-955455131.jpeg" alt="mod-image" height="350" />
+
+> By rienguen for Skyrim Special Edition (Default)
+
+Make execution from Valhalla mod looks better.
+
+
+
+
+<hr />
+
+### Valhalla Combat Parry Sounds 1.0
+
+Installed 05/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/95282/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/95282/95282-1737958337-877905917.jpeg" alt="mod-image" height="350" />
+
+> By Goshbrindal for Skyrim Special Edition (Default)
+
+Adds more realistic combat sounds to Valhalla Combat
+
+
+
+
+<hr />
+
+### Riposte - Parry SFX 1.0
+
+Installed 05/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/121997/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/121997/121997-1718527683-1233986560.png" alt="mod-image" height="350" />
+
+> By pentapox for Skyrim Special Edition (Default)
+
+Parry SFX replacers for Vanilla, Immersive Sounds Compendium and Valhalla Combat
+
+
+
+
+<hr />
+
+### Moons And Stars - Sky Overhaul SKSE 2.0.2
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/73336/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/73336/73336-1660454337-854550668.png" alt="mod-image" height="350" />
+
+> By powerofthree and wSkeever for Skyrim Special Edition (Default)
+
+DLL plugin to fix moons and stars movement and phases.
+
+
+
+
+<hr />
+
+### Vanilla Clouds Upscaled 1.0
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/119003/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/119003/119003-1715224466-504089571.png" alt="mod-image" height="350" />
+
+> By Bottle for Skyrim Special Edition (Default)
+
+4x ESRGAN upscaled vanilla cloud/sun/nightsky textures.
+
+
+
+
+<hr />
+
+### Galaxy and Stars 4K 1.0
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/111440/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/111440/111440-1707697446-475624360.png" alt="mod-image" height="350" />
+
+> By Iconic for Skyrim Special Edition (Default)
+
+Original vanilla galaxy upscaled, and remastered. Improved stars. Ultra lore and vanilla friendly.
+
+
+
+
+<hr />
+
+### Faithful Skies 1.0
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/121736/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/121736/121736-1718211191-413295826.png" alt="mod-image" height="350" />
+
+> By Bottle for Skyrim Special Edition (Default)
+
+16k Tweaked Galaxy and custom 8k stars for the night sky.
+
+
+
+
+<hr />
+
+### No Constellations (Recommended) v1.0a
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/27123/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/27123/27123-1562174089-1731723780.jpeg" alt="mod-image" height="350" />
+
+> By Patternboy for Skyrim Special Edition (Default)
+
+Removes the blurry red/blue vanilla constellation stars (and/or galaxies) by replacing them with an empty alpha channel. Doesn't touch regular stars and is fully compatible with all night sky mods - just let them overwrite this mod. Or overwrite other mods with this one to remove constellations/galaxies you don't like and keep the parts you like.
+
+
+
+
+<hr />
+
+### AURORA v5 x2048 5.0
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/6021/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/6021-6-1482147228.jpg" alt="mod-image" height="350" />
+
+> By ramccoid for Skyrim Special Edition (Default)
+
+This mod retextures the aurora effect seen in the night skies
+
+
+
+
+<hr />
+
+### Coin and Candle - Cozier Tavern Card Table 1.0.0
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/744/) (Environment) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/744/744-1722291619-1551841836.png" alt="mod-image" height="350" />
+
+> By Wildscribe for Enderal Special Edition (Default)
+
+A cozier ambiance while you're playing Battle of Treomar, with remastered clutter and atmosphere.
+
+
+
+
+<hr />
+
+### Tumble and Tally - Cozier Tavern Dice Table 1.0.0
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/755/) (Environment) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/755/755-1722490296-987822847.jpeg" alt="mod-image" height="350" />
+
+> By Wildscribe for Enderal Special Edition (Default)
+
+A cozier ambiance while you're playing Morala's Dice, with remastered clutter and atmosphere.
+
+
+
+
+<hr />
+
+### HFs - Imperial jail grates - 2K 1
+
+Installed 04/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/171332/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/171332/171332-1769903524-905791539.png" alt="mod-image" height="350" />
+
+> By Halffaces for Skyrim Special Edition (Default)
+
+Mesh replacers for the Imperial jail grates.
+
+
+
+
+<hr />
+
+### Chooey&#39;s KS Hairdos Retexture 2.1.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/153721/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/153721/153721-1763512661-1249142861.jpg" alt="mod-image" height="350" />
+
+> By naChooey Kalilies Stealthic for Skyrim Special Edition (Default)
+
+My retexture of KS Hairdos and the vanilla hair with a focus on smoothness
+
+
+
+
+<hr />
+
+### Chooey&#39;s Vanilla Hair Retexture 1.0.0
+
+Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/153721/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/153721/153721-1763512661-1249142861.jpg" alt="mod-image" height="350" />
+
+> By naChooey Kalilies Stealthic for Skyrim Special Edition (Default)
+
+My retexture of KS Hairdos and the vanilla hair with a focus on smoothness
 
 
 
