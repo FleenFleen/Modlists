@@ -1226,21 +1226,6 @@ This replaces the current background of Enderal: Forgotten Stories with the clas
 
 <hr />
 
-### Clear refracting icicle and FrostAtronach 1.5.2
-
-Installed 26/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/2458/) (Environment) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/2458/2458-1510963695-637540662.jpeg" alt="mod-image" height="350" />
-
-> By Skysan4298 for Skyrim Special Edition (Default)
-
-Realistic looking Icicle and Frost Atronach.<br /><br />The BethesdaNet winter-themed Feathered Mod.
-
-
-
-
-<hr />
-
 ### CoMAP - Common Marker Addon Project - CoMAP 4.3.0
 
 Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/56123/) (User Interface) 
@@ -1586,21 +1571,6 @@ SE port of my delectable docks mod
 
 <hr />
 
-### Detection Meter-v1.11 v1.11
-
-Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/63057/) (User Interface) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/63057/63057-1643979322-1569422962.gif" alt="mod-image" height="350" />
-
-> By Maxsu and WilliamsWang for Skyrim Special Edition (Default)
-
-SKSE Plugin that adds Ubisoft style detection meters for stealth.
-
-
-
-
-<hr />
-
 ### Dialogue Interface Reshaped - Enderal SE 1.0
 
 Installed 21/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/453/) (User Interface) 
@@ -1836,36 +1806,6 @@ Installed 18/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By doodlez for Skyrim Special Edition (Default)
 
 Cubemap replacer for vanilla and Modular Armory to add support for Dynamic Cubemaps.
-
-
-
-
-<hr />
-
-### Dynamic Interior Ambient Lighting 2.2.1
-
-Installed 21/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/149920/) (Visuals and Graphics) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/149920/149920-1747082428-592947517.png" alt="mod-image" height="350" />
-
-> By isoprophlex for Skyrim Special Edition (Default)
-
-Dynamically adjusts interior ambient lighting based on the time of day, seamlessly integrating as an addon compatible with any existing lighting mod.
-
-
-
-
-<hr />
-
-### Dynamic Interior Ambient Lightning Enderal Patch 1.2
-
-Installed 21/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/896/) (Environment) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/896/896-1748045827-1113779163.png" alt="mod-image" height="350" />
-
-> By LevinLozenges and isoprovophlex for Enderal Special Edition (Default)
-
-Patches various Enderal interior cells with DIAL's ambient lighting effects.
 
 
 
@@ -4282,21 +4222,6 @@ Installed 20/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Seb263 for Skyrim Special Edition (Default)
 
 Inertia fixes a bug where NPC equipment freezes in the air after death. By temporarily disabling the collision capsule calculation, the mod allows for realistic item falls and prevents NPCs from freezing in awkward poses. Compatible with all NPCs and creatures.
-
-
-
-
-<hr />
-
-### Intense Sandstorms 1.02
-
-Installed 17/01/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/279/) (Environment) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/279/279-1633876039-212962567.png" alt="mod-image" height="350" />
-
-> By Ixion XVII for Enderal Special Edition (Default)
-
-Increases the intensity of sandstorms in the Desert.
 
 
 
@@ -8534,6 +8459,817 @@ Installed 03/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By naChooey Kalilies Stealthic for Skyrim Special Edition (Default)
 
 My retexture of KS Hairdos and the vanilla hair with a focus on smoothness
+
+
+
+
+<hr />
+
+### Skyland Bits and Bobs - A Clutter Overhaul - Blacksmith Smelter Embers XD Patch 1.0
+
+Installed 06/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/95032/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/95032/95032-1688515262-683786880.jpeg" alt="mod-image" height="350" />
+
+> By Skyking2020 for Skyrim Special Edition (Default)
+
+Skyland Bits and Bobs offers hundreds of all new textures for dozens clutter items found throughout Skyrim.
+
+
+
+
+<hr />
+
+### FYX - CRTTW - 1 EmbersXD Flames 1.0.3
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/103807/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/103807/103807-1698842046-45793544.jpeg" alt="mod-image" height="350" />
+
+> By Yuril x mindfIux for Skyrim Special Edition (Default)
+
+EmbersXD Particles now reacts to the Wind. No ESP
+
+
+
+
+<hr />
+
+### 2.1 Better Bellows EmbersXD - Parallax 1.6
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/82648/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/82648/82648-1695986000-1993226274.png" alt="mod-image" height="350" />
+
+> By Pieter82 for Skyrim Special Edition (Default)
+
+Mesh improvements for the blacksmith bellows. Mesh replacer only, no plugin/ESP.
+
+
+
+
+<hr />
+
+### Embers XD - Embers XD - Legacy Compatibility Patch 1.0
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/37085/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/37085/37085-1597479736-1949226310.jpeg" alt="mod-image" height="350" />
+
+> By mindfIux for Skyrim Special Edition (Default)
+
+An overhaul of campfires and other fire sources.
+
+
+
+
+<hr />
+
+### Rudy HQ - Miscellaneous SE 1.02
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimse/mods/19867) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/19867/93461-1536618716-97482734.jpeg" alt="mod-image" height="350" />
+
+> By Rudy102 for Skyrim Special Edition (Default)
+
+HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
+
+
+
+
+<hr />
+
+### Rudification - Rudy Candles Expanded 1.14
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/55852/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/55852/55852-1632411734-420581230.png" alt="mod-image" height="350" />
+
+> By Daralima and InstanKor for Skyrim Special Edition (Default)
+
+Incorporates Rudy102's candles to objects that didn't have them before. With patches added for compatibility with other mods included!
+
+
+
+
+<hr />
+
+### a) More Realistic Fur and Antlers for Elk Trophies 1.2
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/89205/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/89205/89205-1681459958-1955987947.jpeg" alt="mod-image" height="350" />
+
+> By FrankBlack for Skyrim Special Edition (Default)
+
+This mod adds shell texturing and more realistic antlers to the various elk trophies. It's a mesh and texture replacer and so doesn't require a plugin slot.
+
+
+
+
+<hr />
+
+### More Realistic Fur and Antlers - DTA patch 1.2
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/89205/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/89205/89205-1681459958-1955987947.jpeg" alt="mod-image" height="350" />
+
+> By FrankBlack for Skyrim Special Edition (Default)
+
+This mod adds shell texturing and more realistic antlers to the various elk trophies. It's a mesh and texture replacer and so doesn't require a plugin slot.
+
+
+
+
+<hr />
+
+### Wall mounted dead animals fixes 1.0
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/58511/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/58511/58511-1636998017-203003924.jpeg" alt="mod-image" height="350" />
+
+> By GGUNIT for Skyrim Special Edition (Default)
+
+Fixed meshes for most vanilla wall mounted dead animals.
+
+
+
+
+<hr />
+
+### Wall mounted dead animals - Bears of the North 1.1
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/58511/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/58511/58511-1636998017-203003924.jpeg" alt="mod-image" height="350" />
+
+> By GGUNIT for Skyrim Special Edition (Default)
+
+Fixed meshes for most vanilla wall mounted dead animals.
+
+
+
+
+<hr />
+
+### b) Fluffy Wall Mounted Animal Trophies 2k 1.3
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/90369/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/90369/90369-1682858165-1605679747.jpeg" alt="mod-image" height="350" />
+
+> By FrankBlack for Skyrim Special Edition (Default)
+
+This is a mesh and texture replacer for Skyrim's wall mounted animals. It adds more realistic fur using shell texturing.
+
+
+
+
+<hr />
+
+### c) Fluffy Wall Mounted Animal Trophies - BoTN 2K 1.3
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/90369/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/90369/90369-1682858165-1605679747.jpeg" alt="mod-image" height="350" />
+
+> By FrankBlack for Skyrim Special Edition (Default)
+
+This is a mesh and texture replacer for Skyrim's wall mounted animals. It adds more realistic fur using shell texturing.
+
+
+
+
+<hr />
+
+### Fluffy Wall Mounted Elk Trophies- Vanilla Antlers 1.1
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/90369/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/90369/90369-1682858165-1605679747.jpeg" alt="mod-image" height="350" />
+
+> By FrankBlack for Skyrim Special Edition (Default)
+
+This is a mesh and texture replacer for Skyrim's wall mounted animals. It adds more realistic fur using shell texturing.
+
+
+
+
+<hr />
+
+### Fluffy Wall Mounted Goats 2K DTA patch by Mur4s4me 1.0
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/90369/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/90369/90369-1682858165-1605679747.jpeg" alt="mod-image" height="350" />
+
+> By FrankBlack for Skyrim Special Edition (Default)
+
+This is a mesh and texture replacer for Skyrim's wall mounted animals. It adds more realistic fur using shell texturing.
+
+
+
+
+<hr />
+
+### Candle Flame VFX Edit 1.0
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/137381/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/137381/137381-1735427893-707058968.png" alt="mod-image" height="350" />
+
+> By Kittytail for Skyrim Special Edition (Default)
+
+Cozy candle fire!
+
+
+
+
+<hr />
+
+### ERM - Enhanced Rocks and Mountains - DynDOLOD 1.0.1
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/88754/) (Environment) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/88754/88754-1680920300-324925962.jpeg" alt="mod-image" height="350" />
+
+> By SparrowPrince CaptainCockerel and StepModifications for Skyrim Special Edition (Default)
+
+DynDOLOD LOD files for Enhanced Rocks and Mountains (ERM) or ERM - Complex Material and PBR
+
+
+
+
+<hr />
+
+### Moonlit Dreamflower Replacer with ENB Light 1.0.0
+
+Installed 07/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/759/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/759/759-1722713567-1726601641.jpeg" alt="mod-image" height="350" />
+
+> By Wildscribe and Kabunouveau for Enderal Special Edition (Default)
+
+A starlight-inspired dreamflower replacer, adding glow and subtle ENB light to Kabu's Cathedral 3D Nightshade.
+
+
+
+
+<hr />
+
+### Better Chests 2K Optimised SSE 1.1.4
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/71680/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/71680/112620-1658228301-1395802320.png" alt="mod-image" height="350" />
+
+> By The Blender Animator for Skyrim Special Edition (Default)
+
+A replacer for the Large Ruins, Noble and Common chests of Skyrim with up to 8K textures and high poly models for each
+
+
+
+
+<hr />
+
+### Read or Take SKSE 1.4.0
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/69588/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/69588/69588-1655089970-264818889.png" alt="mod-image" height="350" />
+
+> By powerofthree for Skyrim Special Edition (Default)
+
+Simple SKSE plugin that allows you to read OR take books
+
+
+
+
+<hr />
+
+### Wheeler - Quick Action Wheel Of Skyrim - Wheeler 1.2
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/97345/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/97345/97345-1690881931-1882630882.png" alt="mod-image" height="350" />
+
+> By dTry for Skyrim Special Edition (Default)
+
+Embeds a quick action wheel seamlessly into Skyrim's gameplay, providing a convenient interface for accurate and customized access and usage of spells, weapons, powers, shouts, potions, and poisons in the inventory.
+
+
+
+
+<hr />
+
+### wheeler-enderal-fix v1.0.0
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/1009/) (Gameplay) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/1009/1009-1769008997-865216120.jpg" alt="mod-image" height="350" />
+
+> By dTry-tavvfiq for Enderal Special Edition (Default)
+
+fixed CTD issue on enderal when equipping bow from wheeler
+
+
+
+
+<hr />
+
+### Edge UI - Wheeler Reskin 1.0
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/99419/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/99419/99419-1693190448-1520780735.png" alt="mod-image" height="350" />
+
+> By TheLordRigel for Skyrim Special Edition (Default)
+
+A retexture of the dTry's Wheeler mod to fit Edge UI design (EugeneUI)
+
+
+
+
+<hr />
+
+### SkyInteract 1.0.8
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/143311/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/143311/143311-1740887866-948549187.jpeg" alt="mod-image" height="350" />
+
+> By shazdeh2 for Skyrim Special Edition (Default)
+
+This is a utility for mod authors, to show keybindings for contextual actions in the HUD.
+
+
+
+
+<hr />
+
+### Papyrus Ini Manipulator 1.9.7
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/65634/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/65634/65634-1721894905-1333819907.png" alt="mod-image" height="350" />
+
+> By Meridiano for Skyrim Special Edition (Default)
+
+This SKSE64 plugin adds the ability to read and write ini files using Papyrus scripting.
+
+
+
+
+<hr />
+
+### Wheeler - Show in UI 1.0.5
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/161698/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/161698/161698-1760590822-1233003146.jpg" alt="mod-image" height="350" />
+
+> By shazdeh2 for Skyrim Special Edition (Default)
+
+Show hotkeys for Wheeler - Quick Action Wheel in UI.
+
+
+
+
+<hr />
+
+### Seamless Cubemaps 1.2
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/84331/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/84331/84331-1691108028-1268095081.png" alt="mod-image" height="350" />
+
+> By Moizoos for Skyrim Special Edition (Default)
+
+Upscaled vanilla cubemaps without seams on the edges.
+
+
+
+
+<hr />
+
+### Seamless Dynamic Cubemaps 1.3.0
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/154408/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/154408/154408-1751948540-191404514.png" alt="mod-image" height="350" />
+
+> By Leo for Skyrim Special Edition (Default)
+
+Collection of dynamic cubemap textures.
+
+
+
+
+<hr />
+
+### Underwater Loop and Swimming Sounds 1.1
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/143141/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/143141/143141-1740764889-1534477195.png" alt="mod-image" height="350" />
+
+> By Clofas for Skyrim Special Edition (Default)
+
+Simple mod that replaces the underwater sound loop and swimming sounds. No plugin included.
+
+
+
+
+<hr />
+
+### Community Shaders Dynamic Cubemaps - Complete Addon - DS Mashup Patch 1
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168378/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/168378/168378-1767094570-638082093.png" alt="mod-image" height="350" />
+
+> By Magink for Skyrim Special Edition (Default)
+
+Covers all Vanilla Cubamps.
+
+
+
+
+<hr />
+
+### Community Shaders Dynamic Cubemaps - Complete Addon - Water for ENB Patch 1
+
+Installed 08/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168378/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/168378/168378-1767094570-638082093.png" alt="mod-image" height="350" />
+
+> By Magink for Skyrim Special Edition (Default)
+
+Covers all Vanilla Cubamps.
+
+
+
+
+<hr />
+
+### Convenient Reading UI - SE - Darker book text 1.1
+
+Installed 10/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/50202/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/50202/107810-1621595906-1352701419.jpeg" alt="mod-image" height="350" />
+
+> By uranreactor for Skyrim Special Edition (Default)
+
+Quality of life improvements for the book menu: <br />faster pages animation, configurable text size, configurable bottom bar.
+
+
+
+
+<hr />
+
+### BURP - Spell Tomes 1.0
+
+Installed 10/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/53611/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/53611/53611-1628629870-1750013185.jpeg" alt="mod-image" height="350" />
+
+> By LegacyCloud for Skyrim Special Edition (Default)
+
+Expansion to the Book Unity &amp; Revamp Project to give some of the same love to the long neglected spell tomes of the game
+
+
+
+
+<hr />
+
+### Common Clothes Upscaled  Textures (CCUT) - CCUT_4x 1
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/35377/) (Locations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/35377/35377-1700870154-814285899.png" alt="mod-image" height="350" />
+
+> By kartoffel for Skyrim Special Edition (Default)
+
+Common Clothes Upscaled Textures About 4k~ resolution.
+
+
+
+
+<hr />
+
+### udefrykte replacer (se-ae) 1
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/120212/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/120212/118461-1716609640-841877860.jpeg" alt="mod-image" height="350" />
+
+> By Mihail for Skyrim Special Edition (Default)
+
+Return the legendary Udefrykte to its memorable fearsome appearance as seen in our first encounter with the species in Morrowind's Bloodmoon DLC.
+
+
+
+
+<hr />
+
+### Ouro&#39;s collection of small overhauls - Udefrykte Replacer - Old Tyarge 1.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/enderalspecialedition/mods/790/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/790/790-1752651714-92579374.jpg" alt="mod-image" height="350" />
+
+> By Ouruboros for Enderal Special Edition (Default)
+
+A collection of patches I made to replace some monster with new and less skyrim looking models.
+
+
+
+
+<hr />
+
+### XP32 Maximum Skeleton Special Extended - Fixed Scripts 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/44252/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/44252/44252-1610391688-1067300670.png" alt="mod-image" height="350" />
+
+> By foreverphoenix for skyrimspecialedition (Default)
+
+Direct upload of the XPMSSE scripts fixed following cskriffin's instructions.
+
+
+
+
+<hr />
+
+### Better Foam 4K SSE Version 1.0.2
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/87390/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/87390/87390-1679259243-1314351815.jpeg" alt="mod-image" height="350" />
+
+> By TheBlenderAnimator for skyrimspecialedition (Default)
+
+A replacer for the water foam of Skyrim with up to 8K textures (Compatible with RW2 and Water for ENB)
+
+
+
+
+<hr />
+
+### JS Dwemer Artifacts SE - 2k Textures 1.1.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67631/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/67631/111759-1651846278-490626853.png" alt="mod-image" height="350" />
+
+> By johnskyrim for skyrimspecialedition (Default)
+
+2048x2048 Textures. No Plugin.
+
+
+
+
+<hr />
+
+### JS Dwemer Artifacts SE - CS Colored Cubemaps 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67631/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/67631/111759-1651846278-490626853.png" alt="mod-image" height="350" />
+
+> By johnskyrim for skyrimspecialedition (Default)
+
+Colored Cubemaps for Community Shaders. Load after the main file.
+
+
+
+
+<hr />
+
+### JS Dwemer Artifacts SE - GDPR Patch 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67631/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/67631/111759-1651846278-490626853.png" alt="mod-image" height="350" />
+
+> By johnskyrim for skyrimspecialedition (Default)
+
+Golden Dwemer Pipework Redone Patch. 
+
+
+
+
+<hr />
+
+### JS Dwemer Kitchenware SE - 2k Textures 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67026/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/67026/111636-1650798338-354395901.png" alt="mod-image" height="350" />
+
+> By johnskyrim for skyrimspecialedition (Default)
+
+2048x2048 Textures. No Plugin.
+
+
+
+
+<hr />
+
+### JS Dwemer Kitchenware SE - CS Colored Cubemaps 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67026/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/67026/111636-1650798338-354395901.png" alt="mod-image" height="350" />
+
+> By johnskyrim for skyrimspecialedition (Default)
+
+Colored Cubemaps for Community Shaders. Load after the main file.
+
+
+
+
+<hr />
+
+### JS Dwemer Kitchenware SE - GDPR Patch 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67026/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/67026/111636-1650798338-354395901.png" alt="mod-image" height="350" />
+
+> By johnskyrim for skyrimspecialedition (Default)
+
+Golden Dwemer Pipework Redone Patch.
+
+
+
+
+<hr />
+
+### FrostAtronachSE 1.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/171447/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/171447/121032-1770044265-1638864041.jpg" alt="mod-image" height="350" />
+
+> By 4thUnknown for skyrimspecialedition (Default)
+
+Frost Atronach redesign (no .esp)
+
+
+
+
+<hr />
+
+### Audio Overhaul for Skyrim (4.1.3) 4.1.3
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/12466/) (Audio) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/12466/12466-1668428567-419274441.png" alt="mod-image" height="350" />
+
+> By DylanJames for skyrimspecialedition (Default)
+
+Audio Overhaul for Skyrim is an extensive sound overhaul aiming to make the soundscape more immersive, responsive, and ultimately fun.
+
+
+
+
+<hr />
+
+### Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0) 1.1.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/36761/) (Audio) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/36761/36761-1591890948-1395577397.png" alt="mod-image" height="350" />
+
+> By DylanJames for skyrimspecialedition (Default)
+
+Remember to check your in-game audio settings. Enjoy!
+
+An intelligently-made integration of the two largest and most extensive audio mods available for Skyrim.
+Experience all of what both expansive mods have to offer while maintaining full-compatibility between both projects.
+
+
+<hr />
+
+### Hypertrichosis -Werewolf Sounds Rework- 1.3.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/49445/) (Audio) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/49445/49445-1620117606-304177086.jpeg" alt="mod-image" height="350" />
+
+> By Satafinix for skyrimspecialedition (Default)
+
+A full Vicious Werewolf sounds & FX Rework
+
+
+
+
+<hr />
+
+### Airgetlam - Remake Frost Update - 5.0.1
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/51541/) (Audio) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/51541/51541-1738706302-912089203.jpeg" alt="mod-image" height="350" />
+
+> By Satafinix for skyrimspecialedition (Default)
+
+Small update that covers some missing frost SFX mainly frostbite!
+
+
+
+
+<hr />
+
+### Airgetlam -Modern Magic Sounds Rework- Remake 5.0.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/51541/) (Audio) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/51541/51541-1738706302-912089203.jpeg" alt="mod-image" height="350" />
+
+> By Satafinix for skyrimspecialedition (Default)
+
+HQ 3D-4D Modern Magic casting and SFX Sounds Rework Replacer!
+
+
+
+
+<hr />
+
+### Regional Sounds Expansion (2.1.0) 2.1.0
+
+Installed 12/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/77829/) (Audio) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/77829/77829-1673427903-1667346014.png" alt="mod-image" height="350" />
+
+> By DylanJames for skyrimspecialedition (Default)
+
+An extensive, standalone regional sound overhaul for towns, dungeons, and open-world – based and improved upon Audio Overhaul for Skyrim.
+
+
+
+
+<hr />
+
+### Alpha Blood Blending Bug (NG) - Latest Version 1.0.0
+
+Installed 13/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/149128/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/149128/149128-1746351744-1488461435.jpeg" alt="mod-image" height="350" />
+
+> By Seb263 for skyrimspecialedition (Default)
+
+Fixes the blood decal issue on alpha blended meshes with a dynamic, standalone SKSE plugin. No ESP or manual patches required. This "NG" version is fully automatic, mod-compatible, and applies the fix at game launch for a seamless experience.
+
+
+
+
+<hr />
+
+### Improved Camera Patch Collection 7.0.0
+
+Installed 14/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/94096/) (Animations) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/94096/94096-1688495012-1878079570.png" alt="mod-image" height="350" />
+
+> By TwistedModding for skyrimspecialedition (Default)
+
+a collection of patches that improves gameplay experience while using the Improved Camera mod
+
+
+
+
+<hr />
+
+### Dynamic Bloodpool Framework - Latest Version 1.0.1
+
+Installed 14/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/172080/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/172080/172080-1770593287-298049779.jpg" alt="mod-image" height="350" />
+
+> By Seb263 for skyrimspecialedition (Default)
+
+The Dynamic Bloodpool Framework is a mesh-based, script-free system that generates animated, fluid, and fully customizable bloodpools. Each bloodpool dynamically adapts to the terrain, ensuring smooth performance and complete stability.
+
+
+
+
+<hr />
+
+### Core Impact Framework - Latest Version 1.2.6
+
+Installed 14/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/146873/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/146873/146873-1744666331-1785174724.jpeg" alt="mod-image" height="350" />
+
+> By Seb263 for skyrimspecialedition (Default)
+
+CIF is a modular impact system overhaul powered by SKSE, giving full control over effects like impacts, blood, visuals, sounds, and more. It's script-free, highly compatible, and fully customizable via filters and modifiers. Full documentation included.
 
 
 
