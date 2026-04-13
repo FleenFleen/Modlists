@@ -9275,3 +9275,214 @@ CIF is a modular impact system overhaul powered by SKSE, giving full control ove
 
 
 <hr />
+
+### Horsepower - Enderal Footstep Patch 1Enderal
+
+Installed 13/04/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/169335/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/169335/169335-1769376557-897828620.png" alt="mod-image" height="350" />
+
+> By Tsptds - Mxnedula - Sphyx for Skyrim Special Edition (Default)
+
+The horse overhaul you've been waiting for! Yes, that one.HorsePower overhauls pretty much everything missing about horse riding in Skyrim. New player followup attacks, directional animations, improved handling, in-place turns, new ragdoll and sprint behaviors.Making the exploration just work™
+
+
+
+
+<hr />
+
+### Unpoisoned Blocking - Latest Version 1.0.0
+
+Installed 12/04/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/176593/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/176593/176593-1775474545-864823579.jpg" alt="mod-image" height="350" />
+
+> By Seb263 for Skyrim Special Edition (Default)
+
+This mod stops poison and disease from being systematically applied on blocked hits for both players and NPCs, with fully customizable effect conditions via a documented INI file.
+
+
+
+
+<hr />
+
+### Skeleton Auto Patch v1.0.3
+
+Installed 11/04/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/176724/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/176724/176724-1775561854-1237317118.png" alt="mod-image" height="350" />
+
+> By Monitor221hz for Skyrim Special Edition (Default)
+
+SKSE plugin that patches humanoid and creature skeleton behaviour for skeleton mods automatically at runtime, removing the need for a behaviour engine for skeleton support. Compatible with XPMSE and other skeleton mods.
+
+
+
+
+<hr />
+
+### Disabled Reference Integrity Fix SE (SKSE) 1.2.1
+
+Installed 09/04/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/175062/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/175062/175062-1773939153-1111560080.png" alt="mod-image" height="350" />
+
+> By Alaxouche for Skyrim Special Edition (Default)
+
+For Skyrim 1.5.97.
+<br />Don't forget to endorse the mod if you want to support it!
+
+
+
+
+<hr />
+
+### Project Bro Hes There 1.6
+
+Installed 04/04/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/175934/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/175934/175934-1774787236-1120056861.png" alt="mod-image" height="350" />
+
+> By Kenny Leone for Skyrim Special Edition (Default)
+
+Fixes annoying problem where your followers seem deaf and blind when an enemy engages you in combat. SKSE
+
+
+
+
+<hr />
+
+### StepUpOnto SKSE 1.5
+
+Installed 02/04/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/175689/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/175689/175689-1774577213-1044075870.png" alt="mod-image" height="350" />
+
+> By TheShinyHaxorus for Skyrim Special Edition (Default)
+
+Main file. Added some safety timeouts, disallow NPCs from being able to step up while attacking, or step up onto other NPCs. Lowered the default values a bit so you don't run over EVERYTHING. Increase it if you need to.
+
+
+
+
+<hr />
+
+### Alchemy Tier - DIII 1.1
+
+Installed 31/03/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/174669/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/174669/174669-1773481363-1641899577.png" alt="mod-image" height="350" />
+
+> By kuroishitam for Skyrim Special Edition (Default)
+
+for those who prefer green icon to show. main file is still needed
+
+
+
+
+<hr />
+
+### TemperTierIcon 1.0.0
+
+Installed 31/03/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/174146/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/174146/174146-1772897542-2106577885.png" alt="mod-image" height="350" />
+
+> By JerryYOJ for Skyrim Special Edition (Default)
+
+Adds icon indicating a equipment's temper status, improvement tier(Fine, Superior, Exquisite, Flawless, Epic, Legendary).
+
+
+
+
+<hr />
+
+### Diagonal Sprint 1.0.4
+
+Installed 31/03/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/174007/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/174007/174007-1772728672-636332097.png" alt="mod-image" height="350" />
+
+> By Mithras666 for Skyrim Special Edition (Default)
+
+SKSE Plugin that introduces Diagonal Sprinting to First Person. Entirely native implementation, works with all animation and behavior mods.
+
+
+
+
+<hr />
+
+### Item Stacking Tweaks SKSE 1.0.6
+
+Installed 31/03/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/173918/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/173918/173918-1772633876-127447995.png" alt="mod-image" height="350" />
+
+> By Elzar125 for Skyrim Special Edition (Default)
+
+A lightweight SKSE plugin that separates item stacks based on stolen, quest, favorited, and equipped status.
+
+
+
+
+<hr />
+
+### A-Pose Bug Fix - Universal Behavior Runtime - A-Pose Fix v1.1.0-a
+
+Installed 26/03/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168903/) (Dungeons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/168903/168903-1767629976-1965582892.png" alt="mod-image" height="350" />
+
+> By Monitor221hz for Skyrim Special Edition (Default)
+
+v1.1.0 - added conversion timeout, fixed infinite load with DAR v1.1.0-a - reupload to fix file error
+
+
+
+
+<hr />
+
+### RUGNAROK - Special Edition - 2K-1K 1.1
+
+Installed 18/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/5436/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/64830-1-1429243303.jpg" alt="mod-image" height="350" />
+
+> By Gamwich for Skyrim Special Edition (Default)
+
+This mod is an overhaul and expansion of the rugs of Skyrim. Now every rug has a matching normal map, and every rug mesh has a different rug texture set. 2K & 1K versions available. 
+
+
+
+
+<hr />
+
+### Parallax Textures - Rugnarok 4.0
+
+Installed 18/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/125527/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/125527/125527-1724778671-2071822904.png" alt="mod-image" height="350" />
+
+> By ApricotCroissant for Skyrim Special Edition (Default)
+
+Say goodbye to flat, 2D textures and hello to stunning, three-dimensional environments that pop with depth and visual detail. From the snow-capped mountains of the Rift to the lush forests of the Pale, every corner of the game world is transformed into a vibrant, immersive realm.
+
+
+
+
+<hr />
+
+### RUSTIC FORSWORN - Special Edition - 2K 1.0
+
+Installed 17/02/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/18170/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/18170/73515-1529792119-402348277.jpeg" alt="mod-image" height="350" />
+
+> By Gamwich for Skyrim Special Edition (Default)
+
+A hi-res retexture of the long neglected forsworn armor. Available in 4K and 2K resolution options.
+
+
+
+
+<hr />
