@@ -6532,7 +6532,7 @@ Skyland Bits and Bobs offers hundreds of all new textures for dozens clutter ite
 
 ### Skyland Bits and Bobs PBR 1.2.0
 
-Installed 21/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/142908/) (Miscellaneous) 
+Installed 21/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=604029) (Miscellaneous) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1704/images/142908/142908-1740552703-494958453.png" alt="mod-image" height="350" />
 
@@ -6562,7 +6562,7 @@ Introduce the complex parallax effect to Skyland Landscapes or Skyland aio with 
 
 ### Skyland PBR 1.2.1
 
-Installed 18/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/142565/) (Miscellaneous) 
+Installed 18/01/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/142565?tab=files&file_id=648713) (Miscellaneous) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1704/images/142565/142565-1740552764-657207577.png" alt="mod-image" height="350" />
 
