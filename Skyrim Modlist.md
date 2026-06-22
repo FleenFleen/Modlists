@@ -1,10 +1,13 @@
-## Mod Showcase: Skyrim
+## Mod Showcase: Fleen's Skyrim
 
-**Exported from Vortex by KiwiMelodic**
+List of mods used in my Enderal streams
+[Twitch](https://www.twitch.tv/fleenfleen)
+[YouTube](https://www.youtube.com/@FleenStreams)
 
 ## Skyrim Special Edition Mods
 
 <hr />
+*THIS LIST IS FOR REFERENCE ONLY! DO NOT DOWNLOAD ALL OF THESE AND EXPECT IT TO WORK*
 <hr />
 
 ### 01a) HIMBO V5 - Core (Nevernude Body) 5.8
@@ -1230,7 +1233,8 @@ Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By Prometheus for Skyrim Special Edition (Default)
 
-This mod adds new types of skeletons Argonian ,Khajiit , Orc , Elf ...<br />
+This mod adds new types of skeletons Argonian ,Khajiit , Orc , Elf ...
+<br />
 
 
 
@@ -7373,7 +7377,8 @@ Installed 10/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By tesseractangular for Skyrim Special Edition (Default)
 
-This mod adds elf children to Skyrim for you to adopt. They are based on vanilla children, so that they seamlessly blend in with the human children already in the game.<br />There are a boy and a girl for every race (dark elf, hight elf, wood elf and orc), making a total of eight new kids&#33; 
+This mod adds elf children to Skyrim for you to adopt. They are based on vanilla children, so that they seamlessly blend in with the human children already in the game.
+<br />There are a boy and a girl for every race (dark elf, hight elf, wood elf and orc), making a total of eight new kids&#33; 
 
 
 
@@ -8878,7 +8883,9 @@ Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By Reize for Skyrim Special Edition (Default)
 
-Have you ever had that moment where you had the perfect assassination lined up, only for the target to sidestep while he wasn&#39;t looking at you? This mod makes it so enemies do not have superpower sensing/dodging. No BS Guaranteed&#33;<br /><br />
+Have you ever had that moment where you had the perfect assassination lined up, only for the target to sidestep while he wasn&#39;t looking at you? This mod makes it so enemies do not have superpower sensing/dodging. No BS Guaranteed&#33;
+<br />
+<br />
 
 
 
