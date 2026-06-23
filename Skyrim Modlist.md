@@ -6829,21 +6829,6 @@ ESL flagged. Safe to install mid-game. No conflicts.<br /><br />Fomod contains d
 
 <hr />
 
-### Immersive Load Screens for ArteFakes 1.1
-
-Installed 20/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67376/) (Immersion) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/67376/67376-1651588912-1277697333.png" alt="mod-image" height="350" />
-
-> By Zira1251 for Skyrim Special Edition (Default)
-
-Edits all ArteFakes load screens. No more brackets. Immersive rewrites. Still get their original points across with spelling/grammar/lore corrections.
-
-
-
-
-<hr />
-
 ### Immersive Patrols (Main) 3.0b
 
 Installed 18/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/718/) (Immersion) 
@@ -15551,3 +15536,211 @@ Occasionally (this may be due to a mod) Belethor will only display a blank inven
 
 <hr />
 
+### Upscaling 1.4.0
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/156952/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/156952/156952-1758891233-2048914082.png" alt="mod-image" height="350" />
+
+> By doodlum alandtse for Skyrim Special Edition (Default)
+
+Full upscaling suite with native game integration, major performance increase, improved visual fidelity. DLSS 4, FSR 3.1 upscaling with FSR Frame Generation.
+
+
+
+
+<hr />
+
+### Simple Horse Whistle 1.0
+
+Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/52521/) (Items and Objects - Player) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/52521/52521-1626567543-782859539.png" alt="mod-image" height="350" />
+
+> By Rpgrobot for Skyrim Special Edition (Default)
+
+Adds a simple horse whistle to call your horse.
+
+
+
+
+<hr />
+
+### Favorite Misc Items 4.0.0
+
+Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/42750/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/42750/42750-1606328474-479478683.png" alt="mod-image" height="350" />
+
+> By powerofthree for Skyrim Special Edition (Default)
+
+SKSE plugin that allows you to favorite books/soul gems/keys and other misc items.
+
+
+
+
+<hr />
+
+### Precision Creatures 2.42
+
+Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/74887/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/74887/74887-1662666526-509843342.jpeg" alt="mod-image" height="350" />
+
+> By NickNak for Skyrim Special Edition (Default)
+
+Adds Precision Functionality to Some creatures
+
+
+
+
+<hr />
+
+### Nemesis Creature Behaivour Compatiblity - Main 1.4
+
+Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/45966/) (Modders Resources and Tutorials) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/45966/45966-1613841306-1274231225.png" alt="mod-image" height="350" />
+
+> By NickNak for Skyrim Special Edition (Default)
+
+Formally Ultimate Combat and Creatures Behaviour compatibility for Nemesis<br /><br />NEMESIS IS NOT FULLY COMPATIBLE WITH CREATURES! This don't make Creature sex/FNIS animations work with Nemesis, this only allows behaviour modders to do creature behaviour edits
+
+
+
+
+<hr />
+
+### Belethor Vendor Fix 2.0 2.0
+
+Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/5081/) (Bug Fixes) 
+
+
+> By Tyrdal for Skyrim Special Edition (Default)
+
+Occasionally (this may be due to a mod) Belethor will only display a blank inventory with neither the option to sell nor to buy - this mod fixes this issue
+
+
+
+
+<hr />
+
+### Swimming Mount Animation Fix 1.0.1
+
+Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/150241/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/150241/150241-1747465401-1643976709.png" alt="mod-image" height="350" />
+
+> By JaySerpa for Skyrim Special Edition (Default)
+
+Custom mounts often break when you start swimming with them. This is quite annoying as your character will literally start levitating on top of the mount. This mod aims to fix that with a simple workaround.
+
+
+
+
+<hr />
+
+### DCA v1.0 1.0
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/123113/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/123113/123113-1719844453-1451239433.png" alt="mod-image" height="350" />
+
+> By Cult for Skyrim Special Edition (Default)
+
+Overhauls vanilla dragon attacks with new animations with fair attacks in mind
+
+
+
+
+<hr />
+
+### Optimised Scripts for Vokrii 1.0.0
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/77356/) (Overhauls) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/77356/77356-1666362170-1826991949.png" alt="mod-image" height="350" />
+
+> By Borgut1337 for Skyrim Special Edition (Default)
+
+Optimised versions (mostly small micro-optimisations) of some of the scripts used by the Vokrii - Minimalistic Perks of Skyrim mod. Requires the original mod.
+
+
+
+
+<hr />
+
+### OnMagicEffectApply Replacer Effective 1.8.2
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/67968/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/67968/67968-1652436679-1633024320.png" alt="mod-image" height="350" />
+
+> By Meridiano for Skyrim Special Edition (Default)
+
+Frequent call fix of OnMagicEffectApply event in different scripts.
+
+
+
+
+<hr />
+
+### Ghostblade T.U. ESL 1024x4096 MODEL REPLACER ONLY v1.0
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/162964/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/162964/162964-1761686013-1407187315.jpg" alt="mod-image" height="350" />
+
+> By FunkyGandalfCat for Skyrim Special Edition (Default)
+
+Replacer and Rework of Ghostblade, new model with animated textures, custom weapon swing sound effects, VFX and features to make it a truly unique artifact.
+
+
+
+
+<hr />
+
+### Vanilla Hair Flow Maps 1.0
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/149011/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/149011/149011-1758820181-2008428335.png" alt="mod-image" height="350" />
+
+> By Jiaye for Skyrim Special Edition (Default)
+
+Hair Specular is a community shaders feature, providing artist-friendly and realistic hair shading to Skyrim.
+
+
+
+
+<hr />
+
+### CS Subsurface Scattering SK - 3ba 2.1
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/169723/) (Body, Face, and Hair) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/169723/169723-1772006082-1060770808.png" alt="mod-image" height="350" />
+
+> By Ali for Skyrim Special Edition (Default)
+
+_SK maps for community shaders subsurface scattering. Additionally tuned for unreleased advanced skin
+
+
+
+
+<hr />
+
+### CS Subsurface Scattering SK - Himbo 2
+
+Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/169723/) (Body, Face, and Hair) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/169723/169723-1772006082-1060770808.png" alt="mod-image" height="350" />
+
+> By Ali for Skyrim Special Edition (Default)
+
+_SK maps for community shaders subsurface scattering. Additionally tuned for unreleased advanced skin
+
+
+
+
+<hr />
