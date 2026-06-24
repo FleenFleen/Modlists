@@ -1960,36 +1960,6 @@ Installed 10/05/2026 from [Discord](https://cdn.discordapp.com/attachments/14341
 
 <hr />
 
-### CYC - Fluffworks Patch 1.0
-
-Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/62628/) (Immersion) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/62628/62628-1643284379-1655439669.jpeg" alt="mod-image" height="350" />
-
-> By Swashbuckler24 for Skyrim Special Edition (Default)
-
-What Hunterborn would have you believe -- "As an adventurer, I can fit a deer in my pocket."<br />What is actually true -- "As an adventurer, I can fit a deer in my pocket." ... no, wait
-
-
-
-
-<hr />
-
-### CYC - SHO hotfix 1.2
-
-Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/62628/) (Immersion) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/62628/62628-1643284379-1655439669.jpeg" alt="mod-image" height="350" />
-
-> By Swashbuckler24 for Skyrim Special Edition (Default)
-
-What Hunterborn would have you believe -- "As an adventurer, I can fit a deer in my pocket."<br />What is actually true -- "As an adventurer, I can fit a deer in my pocket." ... no, wait
-
-
-
-
-<hr />
-
 ### Caliente&#39;s Beautiful Bodies Enhancer CBBE - v2.0.3 2.0.3
 
 Installed 08/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/198/) (Body, Face, and Hair) 
@@ -15551,21 +15521,6 @@ Full upscaling suite with native game integration, major performance increase, i
 
 <hr />
 
-### Simple Horse Whistle 1.0
-
-Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/52521/) (Items and Objects - Player) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/52521/52521-1626567543-782859539.png" alt="mod-image" height="350" />
-
-> By Rpgrobot for Skyrim Special Edition (Default)
-
-Adds a simple horse whistle to call your horse.
-
-
-
-
-<hr />
-
 ### Favorite Misc Items 4.0.0
 
 Installed 22/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/42750/) (User Interface) 
@@ -15739,6 +15694,36 @@ Installed 23/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Ali for Skyrim Special Edition (Default)
 
 _SK maps for community shaders subsurface scattering. Additionally tuned for unreleased advanced skin
+
+
+
+
+<hr />
+
+### Simple Horse SE - Settings Loader 1.0.2
+
+Installed 24/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/63963/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/63963/63963-1645355248-737062965.png" alt="mod-image" height="350" />
+
+> By MaskedRPGFan and mjh9476 for Skyrim Special Edition (Default)
+
+Created from scratch MCM for Simple Horse SE by tktk1 to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, imports settings from an existing save, so you don't have to spend time in MCM again with each game. Localization support. No plugin.
+
+
+
+
+<hr />
+
+### Simple Horse SE 1.21
+
+Installed 24/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/12650/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/78689-0-1473693184.jpg" alt="mod-image" height="350" />
+
+> By tktk for Skyrim Special Edition (Default)
+
+This mod modify horse function e.g. call a last ridden horse with whistle, horse is no fighting. <br />It is simple, stable and almost no performance hit and compatible with almost mods.
 
 
 
