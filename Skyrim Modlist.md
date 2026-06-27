@@ -4836,21 +4836,6 @@ Faithful faces for more mods to have it's NPCs use SMP hair physics using Vanill
 
 <hr />
 
-### Falling Gildergreen Petals - ESP file 1.0
-
-Installed 12/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/21426/) (Immersion) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/21426/94838-1543057191-325510800.png" alt="mod-image" height="350" />
-
-> By Undriel for Skyrim Special Edition (Default)
-
-Adds a soft, beautiful effect of petals falling from the regrown Gildergreen tree.
-
-
-
-
-<hr />
-
 ### Falmer Servant Lines Expansion 1.01
 
 Installed 12/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/120995/) (Immersion) 
@@ -15724,6 +15709,698 @@ Installed 24/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By tktk for Skyrim Special Edition (Default)
 
 This mod modify horse function e.g. call a last ridden horse with whistle, horse is no fighting. <br />It is simple, stable and almost no performance hit and compatible with almost mods.
+
+
+
+
+<hr />
+
+### Minimalistic AutoSave 5.1
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/37133/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/37133/103339-1591787699-167172187.jpeg" alt="mod-image" height="350" />
+
+> By VanKorno for Skyrim Special Edition (Default)
+
+Time-based smart auto-saves. Every 6-th save is a normal save. The mod checks for some conditions, ignored by other auto-save mods.
+
+
+
+
+<hr />
+
+### MMSF 1.0.0.0
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/183073/) (Modders Resources and Tutorials) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/183073/183073-1781899292-964571164.png" alt="mod-image" height="350" />
+
+> By minizbot2012 for Skyrim Special Edition (Default)
+
+Core mod for my systems now and future
+
+
+
+
+<hr />
+
+### The Gildergreen Grows 1.2.0
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/147742/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/147742/147742-1744703428-1222004399.png" alt="mod-image" height="350" />
+
+> By Missile for Skyrim Special Edition (Default)
+
+The Gildergreen sapling will progressively grow over the course of 4 months, instead of staying as the sapling for the rest of the game. This mod also adds two small dialogue lines to Danica and an obtainable buff you can get for watering the Gildergreen. (ESL Flagged)
+
+
+
+
+<hr />
+
+### Rudy HQ - ENB Complex Material Silverware 1.3
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/135266/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/135266/135266-1733083459-1018103655.jpeg" alt="mod-image" height="350" />
+
+> By Rudy102 for Skyrim Special Edition (Default)
+
+ENB Complex Material for Silverware. All fancy stuff: Parallax, Metalness, Dynamic Cubemaps
+
+
+
+
+<hr />
+
+### PBR for Rudy HQ Silverware 1.1
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/135776/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/135776/135776-1733547884-590868126.png" alt="mod-image" height="350" />
+
+> By Rudy102 and Jiaye for Skyrim Special Edition (Default)
+
+Community Shaders PBR Conversion for Rudy HQ - ENB Complex Material for Silverware
+
+
+
+
+<hr />
+
+### Tiny Patch Hub 2.5.1
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/62050/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/62050/62050-1642345133-2026628055.png" alt="mod-image" height="350" />
+
+> By Showda and Oaristys for Skyrim Special Edition (Default)
+
+A compilation of ~300 patches for various mods, mainly resolving clipping issues. ESPFE/INI.
+
+
+
+
+<hr />
+
+### Horse Naming Plus 1.0.0
+
+Installed 26/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/79627/) (Followers &amp; Companions - Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/79627/79627-1669689000-1011805578.png" alt="mod-image" height="350" />
+
+> By Tate Taylor for Skyrim Special Edition (Default)
+
+Adds a simple horse naming mechanic.
+
+
+
+
+<hr />
+
+### YAR - Yuril&#39;s Additional Resources 1.0.5
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/89416/) (Modders Resources and Tutorials) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/89416/89416-1681727837-992183820.jpeg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+Yuril's Additional Resources adds new 3D models usable for the modding community. Will be updated regularly. Currently over 150 meshes
+
+
+
+
+<hr />
+
+### Improved Solitude Walls 1.35
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/111956/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/111956/111956-1710013787-638972866.jpeg" alt="mod-image" height="350" />
+
+> By RedBag for Skyrim Special Edition (Default)
+
+Replaces the meshes for Solitude walls.
+
+
+
+
+<hr />
+
+### FYX - B - Riekling Painting Decals 1.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/176644/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/176644/176644-1775713045-1964211527.jpg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+This FYX attempts to fix the seams in the texture of the Riekling paint decals.
+
+
+
+
+<hr />
+
+### FYX - (B) Eastern Empire Company Building - SMIM - Parallax 1.0.2.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/86526/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/86526/86526-1678195567-1019661624.jpeg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+Open fake windows, opens access to the terrace, fix bad placement of the bar and the roof, Fix some UV's. NO Esp
+
+
+
+
+<hr />
+
+### FYX - A - HHrothgar Collisions - Parallax 1.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/100088/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/100088/100088-1694023057-1249449009.jpeg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+Created new collisions for High Hrothgar's steps to fix the bug that causes the player to get stuck when climbing the steps. No ESP
+
+
+
+
+<hr />
+
+### A) FYX - Black-Briar and Riftweald Manors - Parallax 1.0.4.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/80515/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/80515/80515-1670840186-1696602399.jpeg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+Refreshing the architecture of the two large manors in Riften. Fix some UV map and more. No ESP
+
+
+
+
+<hr />
+
+### A) FYX - Jorrvaskr - Parallax 1.0.4
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/77355/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/77355/77355-1666326029-1943488980.jpeg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+Fix some bugs, some UV's, fix tangent space, add alpha vertex, Smooth stone and wood part, add back detail. No ESP.
+
+
+
+
+<hr />
+
+### Typing Mode 1.0.3
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/164851/) (Utilities) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/164851/164851-1763493127-1285309818.png" alt="mod-image" height="350" />
+
+> By Viny for Skyrim Special Edition (Default)
+
+Stop menu/hotkeys to be triggered when enter the typing mode, so you can use caps lock, delete, home and all other keys that others mod/menus use.
+
+
+
+
+<hr />
+
+### Dragonactorscript Infinite Loop Fix - FOMOD 1.4.2
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/87940/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/87940/87940-1679952136-376337057.png" alt="mod-image" height="350" />
+
+> By Blackread for Skyrim Special Edition (Default)
+
+If a dragon dies and you never get close enough to its corpse to absorb its soul, the script for that dragon will be stuck in your save forever, polling every second. This mod fixes that.
+
+
+
+
+<hr />
+
+### DL - Animated Boats (BOS) 1.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/170701/) (Environmental) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/170701/170701-1769364687-240376716.png" alt="mod-image" height="350" />
+
+> By BecomingNplus1 for Skyrim Special Edition (Default)
+
+Replaces the static rowboat, longboat and large ship with animated versions using Base Object Swapper.
+
+
+
+
+<hr />
+
+### Encounter Zones Unlocked (1.6.X) 1.5.4
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/19608/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/19608/19608-1535436486-85642305.jpeg" alt="mod-image" height="350" />
+
+> By underthesky and z65536 for Skyrim Special Edition (Default)
+
+Prevents Skyrim from freezing the level of Encounter Zones (like dungeons) when they are first visited.
+
+
+
+
+<hr />
+
+### Valorbound - No Cap and Global MinLevel 5 1.0.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/155430/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/155430/155430-1753370117-1714455793.png" alt="mod-image" height="350" />
+
+> By Zzyxzz for Skyrim Special Edition (Default)
+
+Valorbound overhauls Skyrim’s encounter zones to be more engaging, challenging, and deadly. Featured by SkyPatcher, it also dynamically affects encounter zones added by other mods. Lightweight, seamless, no patches required.
+
+
+
+
+<hr />
+
+### Diseases - I4 icon 1.2 1.2
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/94076/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/94076/94076-1687545162-741568326.png" alt="mod-image" height="350" />
+
+> By IAmNotSimon for Skyrim Special Edition (Default)
+
+Assigns an appropriate icon to the effects of diseases. Compatible with Survival Mode, Canis Hysteria, Sunhelm, Realistic Needs and Diseases, Immersive Diseases, Last Seed and iNeed. ESP-FE.
+
+
+
+
+<hr />
+
+### Better Carriage Destinations 1.0.8
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/164485/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/164485/164485-1763312411-1702369914.jpg" alt="mod-image" height="350" />
+
+> By shazdeh2 for Skyrim Special Edition (Default)
+
+Use your map to select carriage destinations.
+
+
+
+
+<hr />
+
+### Favorites Menu Effects Description 1.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/143532/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/143532/143532-1741099105-1895810148.png" alt="mod-image" height="350" />
+
+> By JPSteel2 for Skyrim Special Edition (Default)
+
+Displays effects description for Spells, Potions, Food, and Enchanted Weapons directly in the Favorites Menu. Support for Survival Mode. SKSE Plugin.
+
+
+
+
+<hr />
+
+### GSO - NPC Infinite Block Fix - Recommened 1.0.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/113064/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/113064/113064-1709551669-380038684.png" alt="mod-image" height="350" />
+
+> By Zzyxzz for Skyrim Special Edition (Default)
+
+Do you know that situation, you are fighting a bandit and he doesn't stop blocking? Yes? Well then this mod is for you!
+
+
+
+
+<hr />
+
+### I4 Shout Icons Overhaul 1.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/107334/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/107334/107334-1702952195-1392373005.png" alt="mod-image" height="350" />
+
+> By komegaki for Skyrim Special Edition (Default)
+
+Adds subtle but immersive shout icons to shouts in vanilla and modded skyrim! Now each shout icon will feel unique and special! (Wheeler Supported!)
+
+
+
+
+<hr />
+
+### Particle Patch 1.4.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/65720/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/65720/65720-1648653582-1509088395.jpeg" alt="mod-image" height="350" />
+
+> By mindflux for Skyrim Special Edition (Default)
+
+The classic Particle Patch, now on Nexus with enhancements.
+
+
+
+
+<hr />
+
+### FYX - Windhelm Graveyard - Parallax 1.0.2
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/98260/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/98260/98260-1691950489-1690984764.jpeg" alt="mod-image" height="350" />
+
+> By Yuril for Skyrim Special Edition (Default)
+
+Meshes with Parallax Enable
+
+Mandatory file = > https://www.nexusmods.com/skyrimspecialedition/mods/89416
+
+
+
+
+<hr />
+
+### Stamina of Steeds 1.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/58742/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/58742/58742-1637373519-150129820.gif" alt="mod-image" height="350" />
+
+> By doodlum for Skyrim Special Edition (Default)
+
+A simple fix for an annoying horse sprint bug. For SSE, AE, VR and Enderal. ESP-FE
+
+
+
+
+<hr />
+
+### Horse Stamina HUD SE 1.0.4
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/47076/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/47076/47076-1615889600-1255922230.png" alt="mod-image" height="350" />
+
+> By Parapets for Skyrim Special Edition (Default)
+
+Displays your horse's stamina in the HUD when riding a horse.
+
+
+
+
+<hr />
+
+### Skyking Soul Gems 3.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/110303/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/110303/110303-1706415197-553791981.jpeg" alt="mod-image" height="350" />
+
+> By Skyking2020 for Skyrim Special Edition (Default)
+
+Skyking Soul Gems features all new textures, ENB lighting, and parallax effects for all the soul gems and soul gem pieces found throughout Skyrim.
+
+
+
+
+<hr />
+
+### CS Lights for Skyking Soul Gems 2
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/169277/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/169277/169277-1767998209-90016523.png" alt="mod-image" height="350" />
+
+> By Molags Nuts for Skyrim Special Edition (Default)
+
+Adds Lights to Skyking's Soul Gems using Light Placer.
+
+
+
+
+<hr />
+
+### HDT-SMP Vanilla Miraak Robes Patch for CBBE 3BA 1.0.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168122/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/168122/168122-1766800604-1203567955.jpg" alt="mod-image" height="350" />
+
+> By tatururutia for skyrimspecialedition (Default)
+
+Added cloth physics to the Vanilla Miraak Robes &amp; Frankly HD Miraak.<br />I also made the HIMBO &amp; CBBE 3BA Bodyslider for the armor.
+
+
+
+
+<hr />
+
+### HDT-SMP Vanilla Miraak Robes Patch for HIMBO 1.0.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168122/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/168122/168122-1766800604-1203567955.jpg" alt="mod-image" height="350" />
+
+> By tatururutia for skyrimspecialedition (Default)
+
+Added cloth physics to the Vanilla Miraak Robes &amp; Frankly HD Miraak.<br />I also made the HIMBO &amp; CBBE 3BA Bodyslider for the armor.
+
+
+
+
+<hr />
+
+### HDT-SMP Vanilla Miraak Robes Patch 1.0.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/168122/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/168122/168122-1766800604-1203567955.jpg" alt="mod-image" height="350" />
+
+> By tatururutia for skyrimspecialedition (Default)
+
+Added cloth physics to the Vanilla Miraak Robes &amp; Frankly HD Miraak.<br />I also made the HIMBO &amp; CBBE 3BA Bodyslider for the armor.
+
+
+
+
+<hr />
+
+### Re-Modernize - Clothes 1.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/90898/) (Clothing) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/90898/90898-1683536349-2125827207.jpeg" alt="mod-image" height="350" />
+
+> By azurebr for Skyrim Special Edition (Default)
+
+Upscaled vanilla clothes with SMP support for both body and clothes, for 3BA.
+
+
+
+
+<hr />
+
+### Tears Of Kyne 2.1.3
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/181212/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/181212/181212-1781075666-1110712365.png" alt="mod-image" height="350" />
+
+> By ItzIvy for Skyrim Special Edition (Default)
+
+Tears of Kyne is a lightweight SKSE-based water need survival mod, focused on simple, immersive water management meant to be used together with Vanilla Survival mode
+
+
+
+
+<hr />
+
+### Animated Carriage - Vanilla Horse Textures 1.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/113303/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/113303/113303-1709782490-1452858951.png" alt="mod-image" height="350" />
+
+> By Bectile for Skyrim Special Edition (Default)
+
+Small patch to ensure Vicn's Animated Carriage uses the vanilla horse textures, making it compatible with horse overhaul mods like Witcher Horse Expansion... while keeping the original style intended by the author.
+
+
+
+
+<hr />
+
+### Animated Carriage Additional Route 1.6.1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/112548/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/112548/112548-1708874325-600674464.png" alt="mod-image" height="350" />
+
+> By Vicn-kuroishitam for Skyrim Special Edition (Default)
+
+This mod adds more routes for animated carriage mod for more immersion!
+
+
+
+
+<hr />
+
+### Animated Ships - Finer Sails 1.2
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/112517/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/112517/112517-1709091091-1557632019.png" alt="mod-image" height="350" />
+
+> By Artisto for Skyrim Special Edition (Default)
+
+A texture refinement designed to elevate the visual appeal of sails.
+
+
+
+
+<hr />
+
+### Animated Ships Patches FMOD All in One 4.3
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/111556/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/111556/111556-1707836615-710733971.png" alt="mod-image" height="350" />
+
+> By RavenKZP for Skyrim Special Edition (Default)
+
+No more Clipping ships from great Animated Ships mod.
+
+
+
+
+<hr />
+
+### Animated Carriage 1.1.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/112397/) (Environmental) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/112397/112397-1708710822-1348431145.jpeg" alt="mod-image" height="350" />
+
+> By Vicn for Skyrim Special Edition (Default)
+
+NPCs now travel by carriage on the road.
+
+
+
+
+<hr />
+
+### Animated Ships 1.2.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/110260/) (Environmental) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/110260/110260-1706367656-1371019019.jpeg" alt="mod-image" height="350" />
+
+> By Vicn for Skyrim Special Edition (Default)
+
+NPCs sail their ship through ports, beaches, and sea. Player can ride on them.
+
+
+
+
+<hr />
+
+### Ivarstead Source 1.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/118825/) (Environmental) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/118825/118825-1715052447-1087437969.jpeg" alt="mod-image" height="350" />
+
+> By Yeti for Skyrim Special Edition (Default)
+
+Adds a source to the Ivarstead river because Any Austin pointed it out. JKs Skyrim compatible. ESP flagged as ESL.
+
+
+
+
+<hr />
+
+### Cheeky Kids 1.4
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/112455/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/112455/112455-1708789596-269095514.png" alt="mod-image" height="350" />
+
+> By JobiWanUK for Skyrim Special Edition (Default)
+
+Makes children run up to other NPCs and throw random insults at them, with appropriate responses. ESL flagged and very lightweight.
+
+
+
+
+<hr />
+
+### BIRDS v1.03
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/123068/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/123068/123068-1719780046-579977689.png" alt="mod-image" height="350" />
+
+> By Edmond Noir for Skyrim Special Edition (Default)
+
+Adds Ravens, Pheasents, Seagulls, flocks of birds and bats flying around skyrim, and includes unique audio for Bone Hawks, and places more Bone Hawks around vampire lairs, and Adds ghosts ravens and undead bone hawks to Soul Cairn, and includes more placed hawks and Hawk nests.
+
+
+
+
+<hr />
+
+### Edmond&#39;s BIRDS - Textures SE by Xtudo - 2K 1
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/123210/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/123210/123210-1719953579-444408873.jpeg" alt="mod-image" height="350" />
+
+> By Xtudo for Skyrim Special Edition (Default)
+
+My textures for this amazing lovely mod. 4K-2K-1K.
+
+
+
+
+<hr />
+
+### EVG CLAMBER - Slope Animations 1.0 1.0
+
+Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/114753/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/114753/114753-1711142704-1401506318.jpeg" alt="mod-image" height="350" />
+
+> By Everglaid - miken1ke - Ersh for Skyrim Special Edition (Default)
+
+New dedicated animations for traversing up &amp; down slopes, like stairs and hills.
 
 
 
