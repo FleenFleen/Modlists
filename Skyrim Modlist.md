@@ -5093,7 +5093,7 @@ A texture mod that makes use of Community Shaders' PBR feature and covers large 
 
 ### Faultier&#39;s PBR conversion of Xavbio&#39;s armors.7z 
 
-Installed 24/05/2026 from [Google Drive](https://onedrive.live.com/?id=C23FB01B59FA671C%212427&cid=C23FB01B59FA671C&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBaHhuLWxrYnNEX0NrbnNlYUdCLW9xaURBNUJ6) (Models and Textures) 
+Installed 24/05/2026 from [One Drive]([https://onedrive.live.com/?id=C23FB01B59FA671C%212427&cid=C23FB01B59FA671C&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBaHhuLWxrYnNEX0NrbnNlYUdCLW9xaURBNUJ6](https://onedrive.live.com/?id=C23FB01B59FA671C%212427&cid=C23FB01B59FA671C&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBaHhuLWxrYnNEX0NrbnNlYUdCLW9xaURBNUJ6)) (Models and Textures) 
 
 
 > By Faultier for Skyrim Special Edition (Default)
@@ -8231,21 +8231,6 @@ Vanilla outfits now with smp physics
 <hr />
 
 ### Modernize CBBE (3BA) 2.5.5-2.5
-
-Installed 21/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/65156/) (Clothing) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/65156/65156-1647611784-198845979.jpeg" alt="mod-image" height="350" />
-
-> By TransMoose for Skyrim Special Edition (Default)
-
-CBBE (3BA) and HIMBO Bodyslide files for Modernize - Vanilla Version (SMP)
-
-
-
-
-<hr />
-
-### Modernize HIMBO 2.5.5-1.1
 
 Installed 21/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/65156/) (Clothing) 
 
@@ -13827,21 +13812,6 @@ SKSE plugin which allows unique weather to be added to world maps.
 
 <hr />
 
-### Unique Uniques SE 1.1
-
-Installed 20/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/3334/) (Weapons and Armour) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/3334-0-1478537899.jpg" alt="mod-image" height="350" />
-
-> By InsanitySorrow for Skyrim Special Edition (Default)
-
-A conversion of InsanitySorrow&#39;s mod Unique Uniques updated for Skyrim Special Edition.
-
-
-
-
-<hr />
-
 ### Universal Arrow Spin 1.1
 
 Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/171136/) (Immersion) 
@@ -16015,21 +15985,6 @@ Assigns an appropriate icon to the effects of diseases. Compatible with Survival
 
 <hr />
 
-### Better Carriage Destinations 1.0.8
-
-Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/164485/) (Gameplay Effects and Changes) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/164485/164485-1763312411-1702369914.jpg" alt="mod-image" height="350" />
-
-> By shazdeh2 for Skyrim Special Edition (Default)
-
-Use your map to select carriage destinations.
-
-
-
-
-<hr />
-
 ### Favorites Menu Effects Description 1.1
 
 Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/143532/) (User Interface) 
@@ -16401,6 +16356,215 @@ Installed 27/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Everglaid - miken1ke - Ersh for Skyrim Special Edition (Default)
 
 New dedicated animations for traversing up &amp; down slopes, like stairs and hills.
+
+
+
+
+<hr />
+
+### Red Eagles Sword Replacer and Craftables 1.2
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/65757/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/65757/65757-1648739316-979122735.jpeg" alt="mod-image" height="350" />
+
+> By rcarass1 and Ghosu and Rob_the_Bob for Skyrim Special Edition (Default)
+
+This sword replaces the bland and uninspiring vanilla Red Eagle&#92;'s swords with an appearance that is more befitting of Red Eagle&#92;'s legacy as a fierce warrior-king of The Reach. It also adds craftable and temperable versions of the sword in a 1h and 2h model. <br /><br />This a port of rcarass1's LE mod uploaded with their permission.
+
+
+
+
+<hr />
+
+### Combat Animations Overhaul - Dwarven Sphere 1.1
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/131601/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/131601/131601-1729027764-1405791546.jpeg" alt="mod-image" height="350" />
+
+> By wuwei31 for Skyrim Special Edition (Default)
+
+New attack animations for the dwarven sphere.  I may expand on it later..
+
+
+
+
+<hr />
+
+### Better-Looking Antlers for Reindeer - Fluffworks 1.01
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/120151/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/120151/120151-1716541437-1748901410.png" alt="mod-image" height="350" />
+
+> By Demifish for Skyrim Special Edition (Default)
+
+Better-looking antlers for the reindeer in-game, to complement the set of FrankBlack's beautiful antler replacers.  Including a patch for the CC: Saturalia content!
+
+
+
+
+<hr />
+
+### CC Saturalia Patch - Fluffworks 1.01
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/120151/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/120151/120151-1716541437-1748901410.png" alt="mod-image" height="350" />
+
+> By Demifish for Skyrim Special Edition (Default)
+
+Better-looking antlers for the reindeer in-game, to complement the set of FrankBlack's beautiful antler replacers.  Including a patch for the CC: Saturalia content!
+
+
+
+
+<hr />
+
+### Pelage - Bristleback Boar 1.0
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/73400/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/73400/73400-1660546347-484686332.png" alt="mod-image" height="350" />
+
+> By Various for Skyrim Special Edition (Default)
+
+Fluffy mod added/non-vanilla creatures, as well as a few vanilla addons, in a fluffworks like style/technique.
+
+
+
+
+<hr />
+
+### Pelage - CC Saturalia Addon 1.0
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/110122/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/110122/110122-1706300474-1988305786.png" alt="mod-image" height="350" />
+
+> By SteelFeathers and SkySinclaire for Skyrim Special Edition (Default)
+
+SteelFeathers' Saturalia holiday pack shell textured to compliment the aesthetic of either fluffworks or my upcoming fluffy animals mod.
+
+
+
+
+<hr />
+
+### NYH 1.3 1.3
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/14195/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/14195/14195-1514007542-244215044.png" alt="mod-image" height="350" />
+
+> By Matthiaswagg for Skyrim Special Edition (Default)
+
+This mod allows you to rename your horse in the game.
+
+
+
+
+<hr />
+
+### Expanded Carriage Service 2.better
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/2241/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/2241-0-1478040128.jpg" alt="mod-image" height="350" />
+
+> By Kotep for Skyrim Special Edition (Default)
+
+Get to and from all hold capitals by carriage.  Carriages now leave from Dawnstar, Falkreath, Morthal and Winterhold.
+
+
+
+
+<hr />
+
+### Expanded Carriages Hearthfire Destinations Patch 1.0
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/4249/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/4249-0-1479154397.png" alt="mod-image" height="350" />
+
+> By ArtFulDodger for Skyrim Special Edition (Default)
+
+Patch to allow Expanded Carriage Service and Hearthfire Carriage Destinations to be compatible
+
+
+
+
+<hr />
+
+### Hearthfire Carriage Destinations 1.03 1.03
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/2647/) (Cheats and God items) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/2647-0-1478205867.jpg" alt="mod-image" height="350" />
+
+> By tortugapir8 for Skyrim Special Edition (Default)
+
+A simple extension to add the 3 player homes in Hearthfires (Heljarchen, Lakeview, and Windstad) as destinations to all existing carriages (including those at the player homes as well).
+
+
+
+
+<hr />
+
+### Stormfang - Main Replacer 1.1
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/24505/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/24505/24505-1598191920-1582590497.jpeg" alt="mod-image" height="350" />
+
+> By Vilidran for Skyrim Special Edition (Default)
+
+A model replacer for the unique weapon "Stormfang" which can be found in Solstheim. Also adds a craftable unenchanted version at the forge after finishing the quest "Lost Legacy".
+
+
+
+
+<hr />
+
+### Upgrade Leveled Items 4.0
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/22565/) (Items and Objects - Player) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/22565/16090-1547327617-1741206822.jpeg" alt="mod-image" height="350" />
+
+> By kryptopyr for Skyrim Special Edition (Default)
+
+Upgrades your unique leveled items to your character's current level.
+
+
+
+
+<hr />
+
+### Fluffworks - CC Pets of Skyrim Patch 1.0
+
+Installed 28/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/64445/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/64445/64445-1648104774-242817838.png" alt="mod-image" height="350" />
+
+> By Various for Skyrim Special Edition (Default)
+
+Patches for Fluffworks
+
+
+
+
+<hr />
+
+### Faultier&#39;s PBR Armors and Clothes - jewelry addon.7z 
+
+Installed 28/06/2026 from [One Drive]([https://onedrive.live.com/?id=C23FB01B59FA671C%212427&cid=C23FB01B59FA671C&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBaHhuLWxrYnNEX0NrbnNlYUdCLW9xaURBNUJ6](https://onedrive.live.com/?id=C23FB01B59FA671C%212427&cid=C23FB01B59FA671C&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBaHhuLWxrYnNEX0NrbnNlYUdCLW9xaURBNUJ6)) (Models and Textures) 
+
+
+> By Faultier for Skyrim Special Edition (Default)
+
+
 
 
 
