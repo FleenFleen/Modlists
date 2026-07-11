@@ -7039,21 +7039,6 @@ Inserts interesting information, including item icons, into inventory interface.
 
 <hr />
 
-### Iron Armor Redone PBR (2K) 2.1.0
-
-Installed 09/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/176192/) (Armour) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/176192/176192-1775016257-180974618.png" alt="mod-image" height="350" />
-
-> By Leo for Skyrim Special Edition (Default)
-
-
-
-
-
-
-<hr />
-
 ### Item Preview Auto Spinning 0.1.9
 
 Installed 06/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/181002/) (User Interface) 
@@ -7514,21 +7499,6 @@ Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By LeanWolf and masterofshadows for Skyrim Special Edition (Default)
 
 Tired of broad, thick weapons that would be far too heavy, blunt or unwieldy in actual combat? Maybe you find their styles a little too unconventional or just plain ugly? This mod simply reshapes the weapon meshes and is compatible with re-texture mods.
-
-
-
-
-<hr />
-
-### Leather Armor Redone PBR (2K) 2.1.0
-
-Installed 09/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/180726/) (Armour) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/180726/180726-1779518083-1372719036.png" alt="mod-image" height="350" />
-
-> By leostevano for Skyrim Special Edition (Default)
-
-
 
 
 
@@ -11986,21 +11956,6 @@ Fixes all issues with stats, attributes, and levels when changing race from the 
 
 <hr />
 
-### Silver Armor Redone PBR (2K) 2.1.0
-
-Installed 09/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/174117/) (Armour) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/174117/174117-1772871784-977158320.png" alt="mod-image" height="350" />
-
-> By Leo for Skyrim Special Edition (Default)
-
-
-
-
-
-
-<hr />
-
 ### Simple Children Main - FOMOD 1.1.0
 
 Installed 11/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/22789/) (NPC) 
@@ -13048,20 +13003,6 @@ Standing still mt_idle animation replacer for RaceMenu conditioned with OAR to a
 
 <hr />
 
-### Helios.zip 
-
-Installed 20/06/2026 from [Nexus Mods](https://cdn.discordapp.com/attachments/1480207354984140932/1516690816532349039/Helios.zip?ex=6a3ad025&is=6a397ea5&hm=0fe38448796ea8913bc16975a90581408cc34b625376c74209e17ac957389cce&) (Models and Textures) 
-
-
-> By isoprovophlex for Skyrim Special Edition (Default)
-
-Dynamically adjusts interior ambient lighting based on the time of day, seamlessly integrating as an addon compatible with any existing lighting mod.
-
-
-
-
-<hr />
-
 ### State Behavior Framework 1.6
 
 Installed 02/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/164546/) (Animation) 
@@ -13116,21 +13057,6 @@ Installed 19/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By MateDeVita for Skyrim Special Edition (Default)
 
 This mod makes NPCs not register certain spells, such as Soul Trap and Vampire's Seduction, making the spells more usable when playing a stealth character.
-
-
-
-
-<hr />
-
-### Steel Armor Redone PBR (2K) 2.1.0
-
-Installed 09/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/177513/) (Armour) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/177513/177513-1776333193-1784103153.png" alt="mod-image" height="350" />
-
-> By leo for Skyrim Special Edition (Default)
-
-
 
 
 
@@ -16565,6 +16491,547 @@ Installed 28/06/2026 from [One Drive]([https://onedrive.live.com/?id=C23FB01B59F
 > By Faultier for Skyrim Special Edition (Default)
 
 
+
+
+
+
+<hr />
+
+### Horse Double Sound Fix With Faster Animations 1
+
+Installed 30/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/182496/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/182496/182496-1781367137-1186060332.png" alt="mod-image" height="350" />
+
+> By deusexmachiatto for Skyrim Special Edition (Default)
+
+Combines the sound fix from "Horse Mount and Dismount Double Sound Fix" with the faster animation speeds from "Faster Horse Dismount SSE."
+
+
+
+
+<hr />
+
+### HorsePower   Lost Grimoire   Patches 2.1
+
+Installed 30/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/177246/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/177246/177246-1776048908-1228071348.png" alt="mod-image" height="350" />
+
+> By Nozarashiq for Skyrim Special Edition (Default)
+
+Fixes Horses Movement Type when uses Lost Grimoire + HorsePower
+
+
+
+
+<hr />
+
+### Landscape Fixes For Grass Mods Patch 1.0.0
+
+Installed 30/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/30517/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/30517/30517-1574438013-405926652.png" alt="mod-image" height="350" />
+
+> By Elianora for Skyrim Special Edition (Default)
+
+Adds some patches for the Hendraheim Creation Club DLC.
+
+
+
+
+<hr />
+
+### Use Those Blankets - Hendraheim Patch 1.0
+
+Installed 30/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/76027/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/76027/76027-1664030588-790172101.png" alt="mod-image" height="350" />
+
+> By jayserpa for Skyrim Special Edition (Default)
+
+Small edit of the great mod Use Those Blankets from jayserpa adding support so that the beds in Hendraheim spawn the bedsheets.
+
+
+
+
+<hr />
+
+### Exit Sneak On Sprint 1.2.1
+
+Installed 02/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/138669/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/138669/138669-1736544238-1575431651.jpg" alt="mod-image" height="350" />
+
+> By Quantumyilmaz for Skyrim Special Edition (Default)
+
+Press your Sprint key to auto-leave Sneak mode and start sprinting.
+
+
+
+
+<hr />
+
+### Alternative Armors Redone PBR (2K) 1.0.0
+
+Installed 02/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/183915/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/183915/183915-1782727118-498706254.png" alt="mod-image" height="350" />
+
+> By leostevano for Skyrim Special Edition (Default)
+
+A retexture of creation content's (CC) Alternative Armors using physically based megascans. Comes in 3 formats, vanilla, complex material, and PBR.
+
+
+
+
+<hr />
+
+### Lord&#39;s Mail PBR 2k 1
+
+Installed 03/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184219/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184219/184219-1783049267-1274310690.png" alt="mod-image" height="350" />
+
+> By ALIES187 for Skyrim Special Edition (Default)
+
+A PBR and CM retexture of the Creation Club Lord's Mail mod.
+
+
+
+
+<hr />
+
+### Bow of Shadows - PBR 2k 1
+
+Installed 04/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184295/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184295/184295-1783118746-562086952.png" alt="mod-image" height="350" />
+
+> By ALIES187 for Skyrim Special Edition (Default)
+
+A PBR and CM retexture of the Creation Club Bow of Shadows mod.
+
+
+
+
+<hr />
+
+### NPC AI Process Position Fix - NG 1.1.1
+
+Installed 04/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/69326/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/69326/69326-1654692591-651616921.png" alt="mod-image" height="350" />
+
+> By doodlum for Skyrim Special Edition (Default)
+
+Updated NPC AI Process Position Fix adding support for SE, AE, and VR in one DLL.
+
+
+
+
+<hr />
+
+### Simple Block Sparks NG 1.0
+
+Installed 04/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/77673/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/77673/77673-1666743132-13635227.png" alt="mod-image" height="350" />
+
+> By doodlum for Skyrim Special Edition (Default)
+
+Updated Simple Block Sparks adding support for SE and AE in one DLL.
+
+
+
+
+<hr />
+
+### Orcish Strongholds - CC Addon 1.0
+
+Installed 04/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/76044/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/76044/76044-1664047341-1507150350.jpeg" alt="mod-image" height="350" />
+
+> By Ooreeoo for Skyrim Special Edition (Default)
+
+This mod ensures that all residents of Orcish strongholds only use Orcish equipment.
+
+
+
+
+<hr />
+
+### Orcish Strongholds Use Orcish Equipment 1.0
+
+Installed 04/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/76044/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/76044/76044-1664047341-1507150350.jpeg" alt="mod-image" height="350" />
+
+> By Ooreeoo for Skyrim Special Edition (Default)
+
+This mod ensures that all residents of Orcish strongholds only use Orcish equipment.
+
+
+
+
+<hr />
+
+### ElementalFuryFix 2.0
+
+Installed 04/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/16658/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/16658/16658-1524253651-2004707593.jpeg" alt="mod-image" height="350" />
+
+> By tesnexus8 and Richgar for Skyrim Special Edition (Default)
+
+Fix the bug of using an enchantment for Elemental Fury so it actually works on magic weapons. (This is the version that includes the off-hand weapon fix).<br /><br />NOTE: the Battle Fury shout added in Dragonborn has the same bug. A fix for that isn't included since DB didn't exist at the time this was made.
+
+
+
+
+<hr />
+
+### Inigo patch 4.0
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/120255/) (Followers &amp; Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/120255/120255-1716662553-1704010540.jpeg" alt="mod-image" height="350" />
+
+> By Anbeegod for Skyrim Special Edition (Default)
+
+Expands Jenassa with 2071 high quality, immersive and lore-friendly lines. Quest and location awareness.
+
+
+
+
+<hr />
+
+### FDE Illia Inigo patch 1
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/137845/) (Followers &amp; Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/137845/137845-1735751258-513118336.jpeg" alt="mod-image" height="350" />
+
+> By Anbeegod for Skyrim Special Edition (Default)
+
+Expands Illia with 918 immersive and lore-friendly voiced lines. Reacts to many quests, locations.
+
+
+
+
+<hr />
+
+### FDE Aela Patch - Inigo 5.0
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/114801/) (Followers &amp; Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/114801/114801-1711186591-1847349243.jpeg" alt="mod-image" height="350" />
+
+> By Anbeegod for Skyrim Special Edition (Default)
+
+Expands Aela the Huntress with 2743 immersive and lore-friendly voiced lines. Includes quest and location awareness. Recognizes many custom followers.
+
+
+
+
+<hr />
+
+### FDE Aela Patch - Khajiit Will Follow 5.0
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/114801/) (Followers &amp; Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/114801/114801-1711186591-1847349243.jpeg" alt="mod-image" height="350" />
+
+> By Anbeegod for Skyrim Special Edition (Default)
+
+Expands Aela the Huntress with 2743 immersive and lore-friendly voiced lines. Includes quest and location awareness. Recognizes many custom followers.
+
+
+
+
+<hr />
+
+### FDE Brelyna Inigo patch 1
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/113359/) (Followers &amp; Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/113359/113359-1710142318-438101029.jpeg" alt="mod-image" height="350" />
+
+> By Anbeegod for Skyrim Special Edition (Default)
+
+Expands the dialogues of Brelyna Maryon, the sweetheart novice from the College of Winterhold. Including quest-awareness, location-awareness, marriage-specific lines.
+
+
+
+
+<hr />
+
+### Grass Fixes for Creation Club Mods 1.2
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/61777/) (Environmental) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/61777/61777-1645167673-412189317.jpeg" alt="mod-image" height="350" />
+
+> By Mefariah for Skyrim Special Edition (Default)
+
+A mod designed to ensure compatiility between various creation club content and grass mods in order to avoid having your new locations overrun with wild vegetation.
+
+
+
+
+<hr />
+
+### UnarmedUndetected   SkyPatcher 1
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184460/) (Stealth) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184460/184460-1783270240-528307632.png" alt="mod-image" height="350" />
+
+> By AdventTalon for Skyrim Special Edition (Default)
+
+Flags unarmed strikes as quiet for sneak builds. By request.
+
+
+
+
+<hr />
+
+### Anatomically Correct Creature Loot SPID 1
+
+Installed 05/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184438/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184438/184438-1783274739-974498570.png" alt="mod-image" height="350" />
+
+> By ogidaq for Skyrim Special Edition (Default)
+
+SPID-based creature loot adjustments for more anatomically accurate quantities
+
+
+
+
+<hr />
+
+### Particle Limit Uncapper 2
+
+Installed 08/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184367/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184367/184367-1783194008-917912623.png" alt="mod-image" height="350" />
+
+> By TrumanAE for Skyrim Special Edition (Default)
+
+For AE Only
+
+
+
+
+<hr />
+
+### Helios 1.01
+
+Installed 08/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/181533/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/181533/181533-1780444222-781752200.png" alt="mod-image" height="350" />
+
+> By isoprovophlex for Skyrim Special Edition (Default)
+
+Please make sure you are using the latest versions of the required mods.
+
+
+
+
+<hr />
+
+### Skyrim Water Inertia 1.0.0 1.0.0
+
+Installed 08/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184257/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184257/184257-1783091236-1505343517.jpg" alt="mod-image" height="350" />
+
+> By BSoD38 for Skyrim Special Edition (Default)
+
+Added ESL header flag to ESL plugin.
+
+
+
+
+<hr />
+
+### Scion - A Vampire Overhaul 2.2.2
+
+Installed 09/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/41639/) (Overhauls) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/41639/41639-1603410651-1374248152.png" alt="mod-image" height="350" />
+
+> By Simon Magus and SoftestRodvt for Skyrim Special Edition (Default)
+
+Scion is a complete overhaul of Skyrim’s Vampire system designed to balance existing Vampire mechanics and add powerful new vampiric abilities to the game.
+
+
+
+
+<hr />
+
+### Manbeast - A Werewolf Overhaul 2.1.1
+
+Installed 09/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/44746/) (Overhauls) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/44746/44746-1611463256-105629958.png" alt="mod-image" height="350" />
+
+> By Simon Magus and Colinswrath for Skyrim Special Edition (Default)
+
+Manbeast is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game.
+
+
+
+
+<hr />
+
+### Vampires Regen in Shade - Scion Patch 1.0
+
+Installed 09/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/144880/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/144880/144880-1742120764-1166843834.jpeg" alt="mod-image" height="350" />
+
+> By Dovahzard for Skyrim Special Edition (Default)
+
+Patches Vampires Regen in Shade Mod to work with Scion - Vampire Overhaul Mod and adds head covering regen feature.
+
+
+
+
+<hr />
+
+### Vampires Regen in Shade - Scion Patch 1.0
+
+Installed 09/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/144880/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/144880/144880-1742120764-1166843834.jpeg" alt="mod-image" height="350" />
+
+> By Dovahzard for Skyrim Special Edition (Default)
+
+Patches Vampires Regen in Shade Mod to work with Scion - Vampire Overhaul Mod and adds head covering regen feature.
+
+
+
+
+<hr />
+
+### Scion - Custom I4 Icons 1.11
+
+Installed 09/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/105310/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/105310/105310-1702737416-226942039.png" alt="mod-image" height="350" />
+
+> By komegaki for Skyrim Special Edition (Default)
+
+Adds custom icons to SimonMagus's Scion, Hope you like mod! (Now patched for wheeler! Yay!)
+
+
+
+
+<hr />
+
+### Improved Camera Patch Collection 7
+
+Installed 09/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/94096/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/94096/94096-1688495012-1878079570.png" alt="mod-image" height="350" />
+
+> By _CJ_ for Skyrim Special Edition (Default)
+
+a collection of patches that improves gameplay experience while using the Improved Camera mod
+
+
+
+
+<hr />
+
+### AudioOcclusion 1.0.0
+
+Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184748/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184748/184748-1783613982-1516650737.png" alt="mod-image" height="350" />
+
+> By chikuwan for Skyrim Special Edition (Default)
+
+Audio Occlusion is an SKSE plugin that adds realistic sound occlusion to Skyrim. Sounds become quieter and muffled when they are behind walls or floors.
+
+
+
+
+<hr />
+
+### DragonbornsCohort 1.1.0
+
+Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184643/) (Followers &amp; Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184643/184643-1783428152-1167501068.png" alt="mod-image" height="350" />
+
+> By Tesfantom for Skyrim Special Edition (Default)
+
+
+
+
+
+
+<hr />
+
+### Variadic Collision Dynamics - Resources 1.0.6
+
+Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184110/) (Modders Resources and Tutorials) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184110/184110-1783541056-1527129241.jpg" alt="mod-image" height="350" />
+
+> By Legendman - Truman for Skyrim Special Edition (Default)
+
+Tuned both indoor and dialogue camera presets. Thanks to Truman.
+
+
+
+
+<hr />
+
+### Variadic Collision Dynamics 1.1.2
+
+Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/183892/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/183892/183892-1783540508-2122500494.jpg" alt="mod-image" height="350" />
+
+> By Legendman - Truman for Skyrim Special Edition (Default)
+
+See changelog for fixes and changes.
+
+
+
+
+
+<hr />
+
+### Inverse Kinematics - Feet of Skyrim 3
+
+Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184979/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184979/184979-1783786975-305628830.png" alt="mod-image" height="350" />
+
+> By TwistedModding for Skyrim Special Edition (Default)
+
+A SKSE Plugin for The Elder Scrolls V: Skyrim Special Edition. It enables inverse kinematics in places it would normally be disabled. It also enhances the base games IK by dynamically extending it based on size of the skinned mesh, instead of being a single point in the heel. End result should be less clipping while moving around Skyrim.
+
+
+
+
+<hr />
+
+### GIST Soul Trap 1.3
+
+Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/15755/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/15755/89971-1520488542-1153385937.png" alt="mod-image" height="350" />
+
+> By opusGlass for Skyrim Special Edition (Default)
+
+A new and improved solution to the underfilled soul gem problem.
 
 
 
