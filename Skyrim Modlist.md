@@ -1930,21 +1930,6 @@ Make sure to also update Light Placer.
 
 <hr />
 
-### CS Particle Patch 1.5.2
-
-Installed 09/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/147270/) (Visuals and Graphics) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/147270/147270-1744910855-1741095504.jpeg" alt="mod-image" height="350" />
-
-> By AERwaevs for Skyrim Special Edition (Default)
-
-
-
-
-
-
-<hr />
-
 ### Community Shaders Jiaye Experimental Build 26.0.0
 
 Installed 10/05/2026 from [Discord](https://cdn.discordapp.com/attachments/1434192247687086100/1463042058137632879/CS-Jiaye-Exp-26-01-20-RR.7z?ex=6a3ac1d8&is=6a397058&hm=a7c356bf47426b26d099fbcecf28d07a4c892b59cead911ba576e0a827e6cf22&) (Visuals and Graphics) 
@@ -2826,21 +2811,6 @@ Installed 10/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Xtudo for Skyrim Special Edition (Default)
 
 My patches for the lovely mod. ESL, USSEP fixes, removed ITMs and floating rocks, NSUTR, Helgen Reborn and VIGILANT patches, updated loading screens, HD textures and more.
-
-
-
-
-<hr />
-
-### Daedric Shrines PBR 1.0.3
-
-Installed 09/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/139889/) (Models and Textures) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/139889/139889-1737708189-1268254324.png" alt="mod-image" height="350" />
-
-> By Leo for Skyrim Special Edition (Default)
-
-A collection of PBR addon for various mods.
 
 
 
@@ -3747,21 +3717,6 @@ Installed 17/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By shazdeh2 for Skyrim Special Edition (Default)
 
 
-
-
-
-
-<hr />
-
-### Embers XD PBR 1.2.0
-
-Installed 09/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/139889/) (Models and Textures) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/139889/139889-1737708189-1268254324.png" alt="mod-image" height="350" />
-
-> By Leo for Skyrim Special Edition (Default)
-
-A collection of PBR addon for various mods.
 
 
 
@@ -11564,21 +11519,6 @@ Makes the game always load certain records from plugins instead of save, such as
 
 <hr />
 
-### Save and Load Accelerator For SKSE Cosaves 1.3.2
-
-Installed 17/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/163969/) (Bug Fixes) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/163969/163969-1762638523-1986292638.png" alt="mod-image" height="350" />
-
-> By just-harry for Skyrim Special Edition (Default)
-
-This plugin makes SKSE cosaves save up-to 150 times faster, and load up-to 15 times faster.
-
-
-
-
-<hr />
-
 ### Savior&#39;s Hide Replacer - CBBE 3BA Conversion 2.0
 
 Installed 21/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/129638/) (Armour) 
@@ -14458,21 +14398,6 @@ Add a wavy effect at the bottom of the waterfalls.
 
 <hr />
 
-### Wait Your Turn - Enemy Circling Behaviour 1.0.3
-
-Installed 18/06/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/65091/) (Combat) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/65091/65091-1647484074-989682899.png" alt="mod-image" height="350" />
-
-> By Monitor221hz for Skyrim Special Edition (Default)
-
-A lightweight combat add-on mod that adds circling behaviour to enemies. Now, group combat is more fair and fun for the player, as enemies will no longer attack all at once without a pattern. Lightweight, compatible other combat overhaul mods, and can be turned off or tweaked using the MCM. Requires SKSE64, SPID, and PapyrusUtil to be installed
-
-
-
-
-<hr />
-
 ### Water Effects Brightness and Reflection Fix 0.6
 
 Installed 14/05/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/63862/) (Visuals and Graphics) 
@@ -17032,6 +16957,366 @@ Installed 11/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By opusGlass for Skyrim Special Edition (Default)
 
 A new and improved solution to the underfilled soul gem problem.
+
+
+
+
+<hr />
+
+### Horse Armor - PBR 2k 1
+
+Installed 17/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/185326/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/185326/185326-1784004443-961012069.png" alt="mod-image" height="350" />
+
+> By ALIES187 for Skyrim Special Edition (Default)
+
+A PBR and CM retexture of the Creation Club Horse Armor mods.
+
+
+
+
+<hr />
+
+### Civil War Champions Redone PBR (2K) 1.0.0
+
+Installed 17/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/185524/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/185524/185524-1784183371-1014698831.png" alt="mod-image" height="350" />
+
+> By leostevano for Skyrim Special Edition (Default)
+
+A retexture of creation content's (CC) Civil War Champions using physically based megascans. Comes in 3 formats, vanilla, complex material, and PBR.
+
+
+
+
+<hr />
+
+### Riften Temple Sconce Fix - Base Object Swapper 1.0
+
+Installed 19/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/86244/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/86244/86244-1677894024-1534812620.png" alt="mod-image" height="350" />
+
+> By Silvermetal for Skyrim Special Edition (Default)
+
+A mesh replacer for the sconce in Riften's temple that includes the base from wSkeever's Riften Temple Sconce Fix, making it compatible with Major Cities Mesh Overhaul and/or Lux Orbis without the need of a plugin.
+
+
+
+
+<hr />
+
+### Horizon Fix AE 0.4.1
+
+Installed 21/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/184607/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/184607/184607-1783385970-1139164053.png" alt="mod-image" height="350" />
+
+> By hakasapl for Skyrim Special Edition (Default)
+
+An SKSE plugin that makes Skyrim's horizon actually make some sense
+
+
+
+
+<hr />
+
+### Daedric Shrines PBR (4K) 1.0.0
+
+Installed 21/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186034/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186034/186034-1784620466-615013730.png" alt="mod-image" height="350" />
+
+> By leostevano for Skyrim Special Edition (Default)
+
+A complex material and pbr conversion of Mandragorasprouts Daedric Shrines.
+
+
+
+
+<hr />
+
+### Embers XD PBR 1.0.0
+
+Installed 21/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/139889/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186037/186037-1784622775-439551137.png" alt="mod-image" height="350" />
+
+> By leostevano for Skyrim Special Edition (Default)
+
+A pbr conversion of mindflux's Embers XD.
+
+
+
+
+<hr />
+
+### S.L.A.C.K. Save and Load Accelerator - Continued 1.5.1
+
+Installed 22/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/185756/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/185756/185756-1784667244-347765940.png" alt="mod-image" height="350" />
+
+> By GennyWoo for Skyrim Special Edition (Default)
+
+
+
+
+
+
+<hr />
+
+### Emittance Removal Project (1.0) 1.0
+
+Installed 23/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/185666/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/185666/185666-1784310641-1617967483.jpg" alt="mod-image" height="350" />
+
+> By Neutrall9 for Skyrim Special Edition (Default)
+
+This mod removes Emittance from all effects such as smoke, fog, dust, and others.
+
+
+
+
+<hr />
+
+### Wait Your Turn Redux v1.0.3
+
+Installed 24/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/185557/) (Combat) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/185557/185557-1784324066-1833866923.png" alt="mod-image" height="350" />
+
+> By Monitor221hz for Skyrim Special Edition (Default)
+
+v1.0.3 - Added VR support (Special thanks to [url=https://www.nexusmods.com/profile/ItsNicklaj]ItsNicklaj[/url]!) Removed SKSE log spam
+
+
+
+
+<hr />
+
+### Missing In Action Tweaks Updated 1.1
+
+Installed 26/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/173627/) (Quests and Adventures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/173627/173627-1772245134-1217041984.png" alt="mod-image" height="350" />
+
+> By Khagiit for Skyrim Special Edition (Default)
+
+Updated version of small tweaks to the quest Missing In Action.
+
+
+
+
+<hr />
+
+### Bobbing Framework 1.2
+
+Installed 26/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186081/) (Utilities) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186081/186081-1784662687-815957892.png" alt="mod-image" height="350" />
+
+> By RavenKZP for Skyrim Special Edition (Default)
+
+
+
+
+
+
+<hr />
+
+### Bobbing Framework Configs 1.2
+
+Installed 26/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186081/) (Utilities) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186081/186081-1784662687-815957892.png" alt="mod-image" height="350" />
+
+> By RavenKZP for Skyrim Special Edition (Default)
+
+
+
+
+
+
+<hr />
+
+### NextGenDiskCache - AIO 2.0.0
+
+Installed 26/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/185563/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/185563/185563-1784600347-1612065490.png" alt="mod-image" height="350" />
+
+> By GennyWoo for Skyrim Special Edition (Default)
+
+Final 2.0.0 compliance package. Includes Safe, Minimal and Experimental profiles, all required license notices, and no DirectStorage runtime DLLs. Uses the unchanged reviewed v2.0.0 plugin DLL. Performance gains are not guaranteed.
+
+
+
+
+<hr />
+
+### Rain Splashes SKSE 1.1.0
+
+Installed 28/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186404/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186404/186404-1784985975-493306510.png" alt="mod-image" height="350" />
+
+> By Bottle for Skyrim Special Edition (Default)
+
+Simple mod that adds footstep splashes to NPCs while raining.
+
+
+
+
+<hr />
+
+### CC Scourge Reproportion 1
+
+Installed 30/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186758/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186758/186758-1785287694-1618661044.jpg" alt="mod-image" height="350" />
+
+> By LukeSein for Skyrim Special Edition (Default)
+
+Simple mesh replacer that reproportions the Daedric Scourge artifact from The Cause creation club content.
+
+
+
+
+<hr />
+
+### Deadman&#39;s Dread PBR 1
+
+Installed 30/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186784/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186784/186784-1785320403-1758512505.png" alt="mod-image" height="350" />
+
+> By Magink666 for Skyrim Special Edition (Default)
+
+Deadman's Dread PBR
+
+
+
+
+<hr />
+
+### Ayleid Ruins PBR 1
+
+Installed 30/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186851/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186851/186851-1785401656-3097922.png" alt="mod-image" height="350" />
+
+> By Magink666 for Skyrim Special Edition (Default)
+
+The Cause and Ayleid Ruins PBR
+
+
+
+
+<hr />
+
+### The Cause PBR 1
+
+Installed 30/07/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186851/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186851/186851-1785401656-3097922.png" alt="mod-image" height="350" />
+
+> By Magink666 for Skyrim Special Edition (Default)
+
+The Cause and Ayleid Ruins PBR
+
+
+
+
+<hr />
+
+### Cached Recursive Directory Walk - CRDW AE 1.1.4
+
+Installed 02/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186434/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186434/186434-1785004652-459174515.png" alt="mod-image" height="350" />
+
+> By Raxuti3333 for Skyrim Special Edition (Default)
+
+AE 1.6.XXX version
+
+
+
+
+<hr />
+
+### Vigilant Enforcer Redone PBR (2K) 1.0.0
+
+Installed 02/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187133/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187133/187133-1785654562-670849578.png" alt="mod-image" height="350" />
+
+> By leostevano for Skyrim Special Edition (Default)
+
+A retexture of creation content's (CC) Vigil Enforcer using physically based megascans. Comes in 3 formats, vanilla, complex material, and PBR.
+
+
+
+
+<hr />
+
+### Smooth Terrain 0.3.0
+
+Installed 02/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186875/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186875/186875-1785465248-41757566.png" alt="mod-image" height="350" />
+
+> By hakasapl for Skyrim Special Edition (Default)
+
+NG DLL that works for both AE and SE
+
+
+
+
+<hr />
+
+### My PBR Conversion Hub - A Leek Plant PBR 1
+
+Installed 03/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/175588/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/175588/175588-1776888509-2025805106.jpg" alt="mod-image" height="350" />
+
+> By Julio005 for Skyrim Special Edition (Default)
+
+This page serves as a growing collection of PBR (Physically Based Rendering) conversions for various mods across Skyrim Special Edition / Anniversary Edition.
+
+
+
+
+<hr />
+
+### A Leek Plant 1.3
+
+Installed 03/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/174807/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/174807/174807-1773697721-1610239217.jpg" alt="mod-image" height="350" />
+
+> By kiddgimmick for Skyrim Special Edition (Default)
+
+Mesh and texture replacer for leeks, leek plants, and grilled leeks. Includes wind animation on the plant model. Optional patch included for First Person Interactions.
+
+
+
+
+<hr />
+
+### Khajiit Mouth Texture 1
+
+Installed 04/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187280/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187280/187280-1785779255-1455170836.png" alt="mod-image" height="350" />
+
+> By 7isek for Skyrim Special Edition (Default)
+
+Spiky tongue and cleaner teeth for Khajiit.
 
 
 
