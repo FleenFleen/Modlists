@@ -17322,3 +17322,198 @@ Spiky tongue and cleaner teeth for Khajiit.
 
 
 <hr />
+
+### LOD Refresh Bug Fix 1.0.1
+
+Installed 07/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187070/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187070/187070-1785600347-989796103.png" alt="mod-image" height="350" />
+
+> By Bottle for Skyrim Special Edition (Default)
+
+Install with Mod Manager.
+
+
+
+
+<hr />
+
+### Skyrim Dialogue Rewritten 1.4 1.4
+
+Installed 08/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187286/) (Immersion) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187286/187286-1785786916-409775476.png" alt="mod-image" height="350" />
+
+> By Myowcha for Skyrim Special Edition (Default)
+
+Fixes a couple of errors from before, you can replace the old file with this, or keep the old one since it doesn't cause any issues.
+
+
+
+
+<hr />
+
+### Unique Zephyr 1.0 1.0
+
+Installed 08/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/16956/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/16956/16956-1525343704-1590180215.jpeg" alt="mod-image" height="350" />
+
+> By Nazenn and Ray84 for Skyrim Special Edition (Default)
+
+Provides a unique mesh and texture for the Dawnguard weapon Zephyr.
+
+
+
+
+<hr />
+
+### AudioUtil 0.9.13
+
+Installed 06/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/186249/) (Utilities) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/186249/186249-1784836718-14479883.png" alt="mod-image" height="350" />
+
+> By crajj for Skyrim Special Edition (Default)
+
+1.5.97, 1.6.1170 and VR
+
+
+
+
+<hr />
+
+### Map Menu Clouds Fix 1
+
+Installed 06/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187452/) (Bug Fixes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187452/187452-1785957161-1734737204.png" alt="mod-image" height="350" />
+
+> By JPSteel2 for Skyrim Special Edition (Default)
+
+Fixes map clouds not appearing after loading a save in an interior cell. Also comes with an option to disable map clouds completely. SKSE plugin.
+
+
+
+
+<hr />
+
+### Serana hair for vanilla 1.1.0
+
+Installed 07/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/156397/) (Body, Face, and Hair) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/156397/156397-1754549139-735068555.png" alt="mod-image" height="350" />
+
+> By RichardLuo chikuwan for Skyrim Special Edition (Default)
+
+Vanilla Serana hair replacer with HDT-SMP physics.
+
+
+
+
+<hr />
+
+### Dynamic Wind   Happy Little Trees Patch 1.0
+
+Installed 09/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187857/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187857/187857-1786273915-942402871.png" alt="mod-image" height="350" />
+
+> By PppPlyr1 for Skyrim Special Edition (Default)
+
+Fixes the "floppy inflatable tube man" trees when using Dynamic Wind with Happy Little Trees, and gives every HLT tree proper dynamic wind. Works with all install options, with or without the plugin.
+
+
+
+
+<hr />
+
+### Terrain Shadows - Falskaar 1
+
+Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/136049/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/136049/136049-1733812305-125663983.jpeg" alt="mod-image" height="350" />
+
+> By kuroishitam for Skyrim Special Edition (Default)
+
+This mod provides height map of worldspaces added by several popular mods to be used for terrain shadow mod.
+
+
+
+
+<hr />
+
+### Terrain Shadows - Skyrim Extended Cut SaintSeducer 1
+
+Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/136049/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/136049/136049-1733812305-125663983.jpeg" alt="mod-image" height="350" />
+
+> By kuroishitam for Skyrim Special Edition (Default)
+
+This mod provides height map of worldspaces added by several popular mods to be used for terrain shadow mod.
+
+
+
+
+<hr />
+
+### Terrain Shadows - The Cause CC 1
+
+Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/136049/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/136049/136049-1733812305-125663983.jpeg" alt="mod-image" height="350" />
+
+> By kuroishitam for Skyrim Special Edition (Default)
+
+This mod provides height map of worldspaces added by several popular mods to be used for terrain shadow mod.
+
+
+
+
+<hr />
+
+### Terrain Shadows - Wyrmstooth 1
+
+Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/136049/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/136049/136049-1733812305-125663983.jpeg" alt="mod-image" height="350" />
+
+> By kuroishitam for Skyrim Special Edition (Default)
+
+This mod provides height map of worldspaces added by several popular mods to be used for terrain shadow mod.
+
+
+
+
+<hr />
+
+### TomatoRim PBR - ECSS Landscapes 1.0.PBR
+
+Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/177621/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/177621/177621-1776784534-118596837.png" alt="mod-image" height="350" />
+
+> By Tomatokillz for Skyrim Special Edition (Default)
+
+PBR Landscapes for the entire game, ECSS, Northern Roads and Seasonal landscapes.
+
+
+
+
+<hr />
+
+### Creation Club Open Helmets 2.0 2.4.2
+
+Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/70992/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/70992/70992-1657323916-429055319.png" alt="mod-image" height="350" />
+
+> By Imp for Skyrim Special Edition (Default)
+
+Opens the helmets from all Creation Club mods that include helmets. All races supported!
+
+
+
+
+<hr />
