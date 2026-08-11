@@ -17338,21 +17338,6 @@ Install with Mod Manager.
 
 <hr />
 
-### Skyrim Dialogue Rewritten 1.4 1.4
-
-Installed 08/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187286/) (Immersion) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187286/187286-1785786916-409775476.png" alt="mod-image" height="350" />
-
-> By Myowcha for Skyrim Special Edition (Default)
-
-Fixes a couple of errors from before, you can replace the old file with this, or keep the old one since it doesn't cause any issues.
-
-
-
-
-<hr />
-
 ### Unique Zephyr 1.0 1.0
 
 Installed 08/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/16956/) (Visuals and Graphics) 
@@ -17512,6 +17497,51 @@ Installed 05/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 > By Imp for Skyrim Special Edition (Default)
 
 Opens the helmets from all Creation Club mods that include helmets. All races supported!
+
+
+
+
+<hr />
+
+### Saints and Seducers - PBR 1.0
+
+Installed 11/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/169480/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/169480/169480-1768158724-111656384.png" alt="mod-image" height="350" />
+
+> By Addi and Faultier for Skyrim Special Edition (Default)
+
+A Community Shaders PBR conversion of Bethesda's Saints and Seducers - Rare Curios CC
+
+
+
+
+<hr />
+
+### Diverse NPC Heights - SkyPatcher - Main INI File 1.2.0
+
+Installed 10/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/141006/) (NPC) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/141006/141006-1738815893-843399225.png" alt="mod-image" height="350" />
+
+> By Dieselface for Skyrim Special Edition (Default)
+
+Gives unique height values to almost every named NPC in Skyrim and the DLCs through SkyPatcher. No plugin, fully compatible with all face replacers and NPC reworks. Based on Heights of Skyrim - Diverse NPC Heights by JeremyJenki.
+
+
+
+
+<hr />
+
+### Interior DALC Fix 1.0.0
+
+Installed 10/08/2026 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/187914/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/187914/187914-1786318506-1040117510.png" alt="mod-image" height="350" />
+
+> By Bottle for Skyrim Special Edition (Default)
+
+Fixes the bright interior spot light caused by directional light color.
 
 
 
