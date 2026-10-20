@@ -119,7 +119,7 @@ Improves the AI of KotOR 1
 
 Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/260-k1-hi-res-beam-effects/) (Visuals and Graphics) 
 
-<img src="https://deadlystream.com/downloads/screens/monthly_10_2014/a59063ca603a1c507a8dd67ce567c78b-di_hrldf_8.jpg" alt="mod-image" 
+<img src="https://deadlystream.com/downloads/screens/monthly_10_2014/a59063ca603a1c507a8dd67ce567c78b-di_hrldf_8.jpg" alt="mod-image" alt="mod-image" height="350" />
 
 > By InSidious for Star Wars: KOTOR (Default)
 
