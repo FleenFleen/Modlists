@@ -357,7 +357,7 @@ A mod I created because I loved the comic book style of the Cathar race, and the
 
 ### Juhani Dialogue Restoration 1.0.0
 
-Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1501/) (Unknown) 
+Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1501/) (Content) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/234/images/1501/1501-1665321626-102670578.png" alt="mod-image" height="350" />
 
@@ -543,7 +543,9 @@ Installed 18/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1156
 
 > By Curtis1973 for Star Wars: KOTOR (Default)
 
-(Updated to add missing male character armors and robes not added originally.)<br /><br />All armors in game have been remastered to high resolution with enhancements in tone and color along with txi effects to the alpha channels. This includes stock robes as well
+(Updated to add missing male character armors and robes not added originally.)
+<br />
+<br />All armors in game have been remastered to high resolution with enhancements in tone and color along with txi effects to the alpha channels. This includes stock robes as well
 
 
 
@@ -552,7 +554,7 @@ Installed 18/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1156
 
 ### Repeating blaster attacks restoration 2.0.0
 
-Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1685/) (Unknown) 
+Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1685/) (Bugfixes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/234/images/1685/1685-1731814489-2026022947.png" alt="mod-image" height="350" />
 
@@ -582,7 +584,7 @@ In the vanilla version of the game there was a quest on Manaan which inolved you
 
 ### Sandpeople_Disguise_Drop_Fix 1.0.0
 
-Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/51/) (Unknown) 
+Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/51/) (Bugfixes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/234/images/51-1-1430062763.jpg" alt="mod-image" height="350" />
 
@@ -738,7 +740,8 @@ Installed 18/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1096
 
 > By Toasty Fresh for Star Wars: KOTOR (Default)
 
-Just a reupload of this mod which I originally had posted on Holowan Labs before it went down, mainly posting it here for archiving purposes. <br />
+Just a reupload of this mod which I originally had posted on Holowan Labs before it went down, mainly posting it here for archiving purposes. 
+<br />
 
 
 
@@ -793,7 +796,7 @@ Manaan Revisited for KOTOR 1 brings brand new custom and vanilla reworked textur
 ### [K1]_Animated_Swoop_Screen_[TSLPort] 1.0.0
 
 Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/1398-k1-animated-swoop-screen-tslport/) (Visuals and Graphics) 
-<img src="https://deadlystream.com/downloads/screens/monthly_2018_11/ASS_Preview.gif.2e46f13308d55d4d1ceb4b0f5d31c472.gif" alt="mod-image" height="350" />
+<img src="https://deadlystream.com/uploads/monthly_2018_11/ASS_Fnt_Rszd.png.f96aa3e14d9cdf17912e9d7088628fce.png" alt="mod-image" height="350" />
 
 > By ebmar for Star Wars: KOTOR (Default)
 
@@ -822,7 +825,7 @@ This mod attempts to inject a bit of extra variety into one of the minor element
 
 ### Ebon Hawk Camera Replacement 1.1.0
 
-Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1560/) (Unknown) 
+Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1560/) (Bugfixes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/234/images/1560/1560-1688521986-778717170.png" alt="mod-image" height="350" />
 
@@ -882,7 +885,7 @@ Hi poly grenades. All of them!
 
 ### iriazrestored 1.0.0
 
-Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1241/) (Unknown) 
+Installed 19/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1241/) (Content) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/234/images/1241/1-1540141252-1477587536.jpeg" alt="mod-image" height="350" />
 
@@ -895,3 +898,50 @@ Restoration of dantoine iriaz <br />The reason I readded this mod because I down
 
 <hr />
 
+### KMRP - KOTOR Modern Restoration Patch 1.5.1
+
+Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/3096-kmrp-kotor-modern-restoration-patch/) (Bugfixes) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2026_10/01-cover-hotfix.png.baca7e06d5cda5cdfe06655eedfd149f.png" alt="mod-image" height="350" />
+
+
+> By RaymanGT for Star Wars: KOTOR (Default)
+
+Any resolution, properly scaled UI, controller support and engine fixes for KOTOR 1
+
+
+
+
+<hr />
+
+### KMRP - KOTOR 1 Community Patch 1.10.1
+
+Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/1258-kotor-1-community-patch/) (Bugfixes) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2019_12/K1CP_Logo_Lrg.jpg.00b600e66d0cfd41603f347912c1343c.jpg" alt="mod-image" height="350" />
+
+
+> By A Future Pilot for Star Wars: KOTOR (Default)
+
+The K1 Community Patch (K1CP) is a compilation of previous bugfix mods and a multitude of new original fixes put together with the intention of resolving the many and various issues that KOTOR has. This includes some well-known game breaking bugs/softlocks, broken quests, inaccessible content, as well as lesser issues such as problems in conversations, visual inconsistencies, player annoyances, etc. The intention is for the changes to be as seamless as possible, fixing and improving things whilst still retaining the original developer intent.
+
+
+
+
+<hr />
+
+### Restored Content for K1CP [DEMO] 0.13.2
+
+Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2345-restored-content-for-k1cp-demo/) (Content) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2026_09/32370_12992.jpg.4f6ef8667072c1ccc4a5bc0815167868.jpg" alt="mod-image" height="350" />
+
+
+> By N-DReW25 for Star Wars: KOTOR (Default)
+
+Restored Content for K1CP DEMO
+
+
+
+
+<hr />
