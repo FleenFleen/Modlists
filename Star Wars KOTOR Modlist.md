@@ -898,6 +898,195 @@ Restoration of dantoine iriaz <br />The reason I readded this mod because I down
 
 <hr />
 
+### Grenades and mines HD 1.0.0
+
+Installed 23/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2409-grenades-and-mines-hd/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2024_01/480604491_swkotor2024-01-2312-15-37original.png.e3ebeb3c30028ce6b84e6879108b148d.png" alt="mod-image" height="350" />
+
+
+> By Dark Hope for Star Wars: KOTOR (Default)
+
+This mod will replace and update texture files.
+
+
+
+
+<hr />
+
+### HD Animated Computer Interface 1
+
+Installed 23/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1873/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/234/images/1873/1873-1787827223-1787785853.png" alt="mod-image" height="350" />
+
+> By narvecilusero for Star Wars: KOTOR (Default)
+
+Just another interface for computer terminals.
+
+
+
+
+<hr />
+
+### HD Belts 1.0.0
+
+Installed 23/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2914-hd-belts-textures/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2026_01/i_belt_cloakads.jpg.4164d4a33b9e57037c08c1945a4b5d9d.jpg" alt="mod-image" height="350" />
+
+
+> By Etienne76 for Star Wars: KOTOR (Default)
+
+HD Belts textures 1024 x 1024 for KotOR I.
+
+
+
+
+<hr />
+
+### Mission HD Redux 1.0.0
+
+Installed 23/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/3136-mission-hd-redux/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2026_10/20260306003326_1.jpg.f5e07232f4e3c8863d711539bf8b1c10.jpg" alt="mod-image" height="350" />
+
+
+> By StellarExile for Star Wars: KOTOR (Default)
+
+This is a small reskin of Dark Hope's HD Mission Vao. I really liked the textures but couldn't get over the significant change from Mission's original skin tone so I altered the colors to better match the original skin tone. Feel free to do whatever you want with this as Dark Hope and Quanon made their mods open permissions. To install, just move everything to your Override folder.
+
+
+
+
+<hr />
+
+### KotOR1 Random Panels 1.3
+
+Installed 23/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2587-kotor1-random-panels/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2025_11/1969605509_LYV_scren01thumbnail.png.428db5729523b24a3c8397af7d9ec219.png" alt="mod-image" height="350" />
+
+
+> By Sith Holocron for Star Wars: KOTOR (Default)
+
+While recuperating after open heart surgery, I needed a small project to keep me occupied. Something relatively stress-free so I could go about the work without getting to frustrated. I landed on redoing some of the panels for the various planets that *mostly* tend to look the same with minor difference in coloring. I settled on the panels included here.
+
+
+
+
+<hr />
+
+### Emperor Turnip&#39;s HD Animated Lightsabers 1.0
+
+Installed 24/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/1182-emperor-turnips-hd-animated-lightsabers/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_01_2018/9cd0381ff2a10ddf53c15fe72ed65909-20171229092923_1.jpg" alt="mod-image" height="350" />
+
+
+> By Emperor Turnip for Star Wars: KOTOR (Default)
+
+A complete replacement of all lightsaber textures with new 16 frame animated HD textures. Colors for each of the Lightsabers were referenced against canon blades for an authentic representation.
+
+
+
+
+<hr />
+
+### ASTROMECH DROID HD 1.0.0
+
+Installed 24/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/1894-astromech-droid-hd/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2021_05/1305-1569492532-843987610.png.720abc2f4b05ef086a8e96f36ee87e16.png" alt="mod-image" height="350" />
+
+
+> By Dark Hope for Star Wars: KOTOR (Default)
+
+Re-texture of Astromech droid, for Star wars: Knights of the Old Republic. Texture Resolution 2048X2048.
+
+
+
+
+<hr />
+
+### AstromechHD 1.0.0
+
+Installed 24/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2220-astromechhd/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2022_12/0.png.0372b6d25a6b0c83899ba44bfb172cfb.png" alt="mod-image" height="350" />
+
+
+> By Dark Hope for Star Wars: KOTOR (Default)
+
+This mod will replace and update AstromechHD texture files.
+
+
+
+
+<hr />
+
+### Explosion texture 1.0.0
+
+Installed 24/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2194-explosion-texture/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2022_11/170425059_swkotor2022-11-0400-00-39.png.8922ff45ecbd68b4a1d1ffec85497950.png" alt="mod-image" height="350" />
+
+
+> By Dark Hope for Star Wars: KOTOR (Default)
+
+Explosion texture
+
+
+
+
+<hr />
+
+### VP&#39;s Hi Poly Tin Cans - KotOR 1 1.1
+
+Installed 24/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/299-vps-hi-poly-tin-cans-kotor-1/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_10_2016/b0c4e4f16653e3c05f65129a32e040ee-double-bladed-lightsaber.jpg" alt="mod-image" height="350" />
+
+
+> By Fallen Guardian for Star Wars: KOTOR (Default)
+
+Well, on March 16, 2011 a veteran modder known as Varsity Puppet released a mod called VP's Hi Poly Tin Cans. Now this mod took the bad lightsaber models that were for the sabers in the vanilla game and made them high quality and good looking. The only problem with this mod though, was that there was no KotOR I version. And so, approximately two years later (I really did not plan this), with VP's permission, I went ahead and made a KotOR I version. Hope you guys enjoy.
+
+
+
+
+<hr />
+
+### High Quality skyboxes model fixes 1.1.0
+
+Installed 24/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1715/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/234/images/1715/1715-1747474201-611118461.jpeg" alt="mod-image" height="350" />
+
+> By ZobiZob for Star Wars: KOTOR (Default)
+
+Taris upper cities lights were not animated with the High Quality skyboxes mod, i fixed this.
+
+
+
+
+<hr />
+
+### Revamped FX 0.0.0-1.02
+
+Installed 24/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1683/) (Unknown) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/234/images/1683/1683-1731219058-195404825.png" alt="mod-image" height="350" />
+
+> By AliceReyneke for Star Wars: KOTOR (Default)
+
+This mod is a reimagining of the game's visual art design with an overall retention of the original style.
+
+
+
+
+<hr />
+
 ### KMRP - KOTOR Modern Restoration Patch 1.5.1
 
 Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/3096-kmrp-kotor-modern-restoration-patch/) (Bugfixes) 
