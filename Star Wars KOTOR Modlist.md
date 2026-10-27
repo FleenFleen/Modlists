@@ -40,21 +40,6 @@ Taris Revisited for KOTOR 1 brings brand new custom textures to Taris City. No A
 
 <hr />
 
-### Ebon Hawk Revisited - Animated HD screens and panels AS1.0
-
-Installed 18/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1559/) (Visuals and Graphics) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/234/images/1559/1559-1688205050-788809765.jpeg" alt="mod-image" height="350" />
-
-> By Laast for Star Wars: KOTOR (Default)
-
-Ebon Hawk Revisited for KOTOR 1 brings brand new custom textures to the player's Spaceship. No AI upscale here, everything is hand made to give a fresh -but still lore-friendly- look to one of our favorite place from KOTOR.
-
-
-
-
-<hr />
-
 ### Animated energy shields 1.0.0
 
 Installed 19/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2193-animated-energy-shields/) (Visuals and Graphics) 
@@ -214,21 +199,6 @@ Installed 18/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1436
 > By Detran for Star Wars: KOTOR (Default)
 
 An Animated HD retexture of Kotor's Workbench
-
-
-
-
-<hr />
-
-### Ebon Hawk Revisited 1.1
-
-Installed 18/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1559/) (Visuals and Graphics) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/234/images/1559/1559-1688205050-788809765.jpeg" alt="mod-image" height="350" />
-
-> By Laast for Star Wars: KOTOR (Default)
-
-Ebon Hawk Revisited for KOTOR 1 brings brand new custom textures to the player's Spaceship. No AI upscale here, everything is hand made to give a fresh -but still lore-friendly- look to one of our favorite place from KOTOR.
 
 
 
@@ -1081,6 +1051,81 @@ Installed 24/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1683
 > By AliceReyneke for Star Wars: KOTOR (Default)
 
 This mod is a reimagining of the game's visual art design with an overall retention of the original style.
+
+
+
+
+<hr />
+
+### Ebon Hawk Texture Enhancement 1.0
+
+Installed 27/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/282-ebon-hawk-texture-enhancement) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/a4fec9cb39ce20009d7c1d8868551268-screen_1.jpg" alt="mod-image" height="350" />
+
+> By Fallen Guardian for Star Wars: KOTOR (Default)
+
+In the vanilla version of Knights of the Old Republic many of the textures were of extremely low quality. Through the usage of pictures of actual material and some gems that were left behind in the game files I've taken some of the worst (and some of the most noticeable/prominent) and made them of much higher quality.
+
+
+
+
+<hr />
+
+### HD Ebon Hawk Hyperdrive panels 1.0.0
+
+Installed 27/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2925-hd-ebon-hawk-hyperdrive-panels/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2026_02/PLC_HyperSc01.jpg.356f741fc67f42fbc1c104a3cd84dab7.jpg" alt="mod-image" height="350" />
+
+> By Etienne76 for Star Wars: KOTOR (Default)
+
+HD (1024 x 1024) textures for hyperdrive panels on Ebon Hawk.
+
+
+
+
+<hr />
+
+### More Subtle Animated Ebon Hawk Monitors (still not including Galaxy Map) 1.2
+
+Installed 27/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/2258-ebon-hawk-cockpit-upgrade-leh_scre01-more-subtle-version/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_2023_02/After.png.a83f866fc5007884eaad7bc56e4a94b7.png" alt="mod-image" height="350" />
+
+> By Sith Holocron for Star Wars: KOTOR (Default)
+
+This mod replaces the LEH_scre01 textures found around the Ebon Hawk include much of the Ebon Hawk but as best remembered being seen around the Galaxy Map. The previous version will still be available for completists but I consider this version to be the definitive version. This is the “More Subtle” version.  (The “Less Subtle version will be available shortly.)
+
+
+
+
+<hr />
+
+### Ebon Hawk K1 Fixes 2.0
+
+Installed 27/10/2026 from [Deadly Stream](https://deadlystream.com/files/file/1134-ebon-hawk-k1-fixes/) (Models and Textures) 
+
+<img src="https://deadlystream.com/downloads/screens/monthly_01_2018/590a3d2c8e8e96657588d1f0803f151d-kopzsop.png" alt="mod-image" height="350" />
+
+> By ndix UR for Star Wars: KOTOR (Default)
+
+This mod provides geometry corrected versions of the following EbonHawk model files:
+
+
+
+
+<hr />
+
+### Stock Lights Saber Retexture Pack Final
+
+Installed 27/10/2026 from [Nexus Mods](https://www.nexusmods.com/kotor/mods/1139/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/234/images/1139-1-1492383897.jpg" alt="mod-image" height="350" />
+
+> By Curtis1973 for Star Wars: KOTOR (Default)
+
+This set raises the resolution from 64x64 to 256x256 for the double light saber,light saber and short light saber in the game along with giving all three sabers a brand new retexture.
 
 
 
